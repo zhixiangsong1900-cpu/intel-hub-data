@@ -1,0 +1,76 @@
+{
+  "date": "2026-01-27",
+  "videos": [
+    {
+      "title": "再见，人类程序员！OpenAI自曝：一行代码都不写了，100%用Codex",
+      "channel": "RSS资讯",
+      "link": "https://mp.weixin.qq.com/s/3Rj7u36OSd7Uuo2z2GisOA",
+      "valueLabel": "high",
+      "valueReason": "OpenAI内部100%使用Codex编程标志AI编程工具进入新阶段，对研发效率有重大影响",
+      "content": "OpenAI透露内部已100%使用Codex进行编程，人类程序员不再直接编写代码。Codex可将自然语言转化为可工作代码，支持10+编程语言，开发效率提升55%，代码质量评分提高37%。这预示着AI编程工具将深刻改变游戏开发流程。",
+      "highlights": ["AI技术", "行业动态"],
+      "gameAIInsights": "关注该领域与游戏AI的结合点"
+    },
+    {
+      "title": "阶跃星辰完成超50亿元B+轮融资，印奇正式出任董事长",
+      "channel": "RSS资讯",
+      "link": "https://mp.weixin.qq.com/s/Y9seywBv6e5OVAA7AyhYSQ",
+      "valueLabel": "high",
+      "valueReason": "中国大模型赛道单笔最高融资，印奇加入预示AI+终端战略加速",
+      "content": "阶跃星辰完成超50亿元B+轮融资，创过去12个月中国大模型单笔最高融资纪录。旷视科技创始人印奇出任董事长。公司已与60%头部手机品牌深度合作，模型装机量超4200万台，预计今年大模型将上车超百万辆。",
+      "highlights": ["AI技术", "行业动态"],
+      "gameAIInsights": "关注该领域与游戏AI的结合点"
+    },
+    {
+      "title": "科学界爆发AI认知污染！1年狂投50篇论文，ICLR投稿20%AI生成",
+      "channel": "RSS资讯",
+      "link": "https://mp.weixin.qq.com/s/9dplnY89KHRxNeCL24I6DA",
+      "valueLabel": "medium",
+      "valueReason": "AI生成内容泛滥引发学术界担忧，对AI内容真实性判断提出警示",
+      "content": "学术界出现AI认知污染现象，部分研究者一年狂投50篇AI生成论文，ICLR会议投稿中约20%为AI生成。这对AI内容的真实性和质量把控提出新挑战。",
+      "highlights": ["AI技术", "行业动态"],
+      "gameAIInsights": "关注该领域与游戏AI的结合点"
+    },
+    {
+      "title": "OpenAI不Open！7年功勋老将投奔宿敌，实验室沦为API代工厂",
+      "channel": "RSS资讯",
+      "link": "https://mp.weixin.qq.com/s/-GF1FyjhjyVYRKnhJlr5qw",
+      "valueLabel": "medium",
+      "valueReason": "OpenAI人才流失反映AI行业格局变化",
+      "content": "OpenAI七年老将离职加入竞争对手，引发对OpenAI开放性和研究方向的讨论。部分观点认为OpenAI正从前沿研究实验室转型为API服务提供商。",
+      "highlights": ["AI技术", "行业动态"],
+      "gameAIInsights": "关注该领域与游戏AI的结合点"
+    },
+    {
+      "title": "网易云音乐前CTO曹偲：代码越来越不重要，好的架构才是软件工程核心",
+      "channel": "RSS资讯",
+      "link": "https://mp.weixin.qq.com/s/4FPhJeVRFTELx-unc6pq-Q",
+      "valueLabel": "medium",
+      "valueReason": "AI时代下软件工程重心转移的观点值得思考",
+      "content": "网易云音乐前CTO曹偲认为，在AI时代代码编写越来越不重要，好的架构设计才是软件工程的核心竞争力。这对技术团队的能力建设方向提供了参考。",
+      "highlights": ["AI技术", "行业动态"],
+      "gameAIInsights": "关注该领域与游戏AI的结合点"
+    },
+    {
+      "title": "yyds！一个大模型的新方向，彻底爆发了！！",
+      "channel": "RSS资讯",
+      "link": "https://mp.weixin.qq.com/s/5V7jvlcb_lQLzzS1CG2vDA",
+      "valueLabel": "medium",
+      "valueReason": "大模型新方向值得关注，但需要进一步验证实际价值",
+      "content": "大模型领域出现新的技术方向并获得突破性进展，可能对AI应用产生深远影响。具体技术细节和应用场景需要持续跟踪。",
+      "highlights": ["AI技术", "行业动态"],
+      "gameAIInsights": "关注该领域与游戏AI的结合点"
+    },
+    {
+      "title": "Skills 不就是脚本套个壳吗？我十几年前就玩 AutoIt 了",
+      "channel": "RSS资讯",
+      "link": "https://mp.weixin.qq.com/s/9F7XwoOMaAZkvj8gU4RJ9Q",
+      "valueLabel": "low",
+      "valueReason": "讨论AI Skills与传统脚本的关系，观点有趣但实用价值有限",
+      "content": "文章讨论了当前火热的AI Skills与传统脚本自动化工具（如AutoIt）的关系。作者认为Skills本质是脚本的进化形态，但增加了AI理解和自主决策能力。",
+      "highlights": ["AI技术", "行业动态"],
+      "gameAIInsights": "关注该领域与游戏AI的结合点"
+    }
+  ],
+  "generatedAt": "2026-01-27T09:01:48.387Z"
+}
