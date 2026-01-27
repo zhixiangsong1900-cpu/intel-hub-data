@@ -1,0 +1,62 @@
+{
+  "date": "2026-01-14",
+  "overview": {
+    "filterLogic": "基于「形态对齐 × 机制对齐 × 技术对齐」三维过滤，从今日28篇原始资讯中提取4条高价值情报。",
+    "valueJudgment": "本期重点：关注春节档游戏营销策略，AI配音技术突破。"
+  },
+  "formFactor": [
+    {
+      "title": "春节档手游预热分析",
+      "link": "https://example.com/article",
+      "content": "多款重磅手游计划春节期间上线或大版本更新，竞争激烈。分析显示春节档用户付费意愿提升30%，是全年最佳营销窗口。",
+      "highlights": [
+        { "label": "时间窗口", "text": "春节档付费意愿提升30%" }
+      ],
+      "suggestions": [
+        { "label": "营销规划", "text": "制定春节档运营计划" }
+      ]
+    }
+  ],
+  "socialEvergreen": [
+    {
+      "title": "公会系统设计最佳实践",
+      "link": "https://example.com/article2",
+      "content": "头部游戏公会系统设计分析，发现活跃公会的核心是任务系统和奖励分配机制，而非单纯的聊天功能。",
+      "highlights": [
+        { "label": "设计要点", "text": "任务和奖励是公会活跃关键" }
+      ],
+      "suggestions": [
+        { "label": "功能优化", "text": "加强公会任务系统" }
+      ]
+    }
+  ],
+  "techStack": [
+    {
+      "title": "AI语音合成游戏应用",
+      "link": "https://example.com/article3",
+      "content": "多家工作室分享AI语音合成在游戏中的应用，成本降低90%同时质量接近真人配音，适合中小型项目和本地化。",
+      "highlights": [
+        { "label": "成本优势", "text": "配音成本降低90%" }
+      ],
+      "suggestions": [
+        { "label": "技术评估", "text": "评估AI配音方案" }
+      ]
+    }
+  ],
+  "aiNews": [
+    { "title": "Google Gemini 1.5 Pro增强版发布", "link": "https://example.com/ai1", "summary": "上下文窗口扩大到2M tokens" }
+  ],
+  "actionItems": [
+    { "priority": "P0", "action": "制定春节档运营计划", "owner": "运营组", "output": "运营方案" },
+    { "priority": "P2", "action": "评估AI配音方案", "owner": "音频组", "output": "评估报告" }
+  ],
+  "evaluation": {
+    "dimensions": [
+      { "name": "形态对齐", "rating": "⭐⭐⭐", "note": "春节档信息有价值" },
+      { "name": "机制对齐", "rating": "⭐⭐⭐", "note": "公会设计有参考" },
+      { "name": "技术对齐", "rating": "⭐⭐⭐⭐", "note": "AI配音成熟度提升" }
+    ],
+    "summary": "本期情报聚焦运营节点和AI语音技术。"
+  },
+  "sources": ["GameLook", "游戏葡萄"]
+}

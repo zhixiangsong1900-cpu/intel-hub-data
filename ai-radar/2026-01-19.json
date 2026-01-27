@@ -1,0 +1,37 @@
+{
+  "date": "2026-01-19",
+  "videos": [
+    {
+      "title": "Claude 3.5 for Game Dev - Coding Assistant Review",
+      "channel": "Code Monkey",
+      "link": "https://youtube.com/watch?v=example1",
+      "content": "深度评测Claude 3.5在游戏开发中的表现，对比GPT-4和Gemini。结论是Claude在理解游戏逻辑和代码质量方面表现最佳，特别适合复杂系统开发。",
+      "highlights": ["代码质量最高", "上下文理解强", "错误处理完善", "适合复杂逻辑"],
+      "gameAIInsights": "Claude 3.5在游戏开发场景表现优异，建议作为主力AI助手。特别适合战斗系统、经济系统等复杂模块开发。"
+    },
+    {
+      "title": "Midjourney for Game Art - Style Consistency Tips",
+      "channel": "Art Side of Life",
+      "link": "https://youtube.com/watch?v=example2",
+      "content": "分享使用Midjourney保持游戏美术风格一致性的技巧，包括Seed值使用、Style Reference、Character Reference等高级功能。",
+      "highlights": ["风格一致性技巧", "角色设计工作流", "场景生成方法", "批量生产流程"],
+      "gameAIInsights": "Midjourney已可用于游戏美术预生产阶段，建议美术团队学习高级技巧，建立标准化的AI辅助流程。"
+    },
+    {
+      "title": "AI Music Generation for Games - Suno vs Udio",
+      "channel": "Game Audio Academy",
+      "link": "https://youtube.com/watch?v=example3",
+      "content": "对比Suno和Udio在游戏音乐生成中的表现，测试循环音乐、战斗音乐、环境音效等场景。Suno在旋律性上更强，Udio在氛围音乐上更出色。",
+      "highlights": ["Suno旋律更强", "Udio氛围更好", "循环点处理技巧", "版权问题解析"],
+      "gameAIInsights": "AI音乐生成已可用于原型和独立游戏，但大型项目仍需人工把关。建议先在原型阶段使用，积累生成经验。"
+    },
+    {
+      "title": "Building AI NPCs with LangChain",
+      "channel": "Sentdex",
+      "link": "https://youtube.com/watch?v=example4",
+      "content": "技术教程展示如何使用LangChain构建具有记忆和推理能力的游戏NPC，包括对话管理、情感系统、任务追踪等功能实现。",
+      "highlights": ["完整代码演示", "记忆系统实现", "情感状态管理", "与游戏引擎集成"],
+      "gameAIInsights": "LangChain是构建复杂AI NPC的实用框架，代码开源且社区活跃。建议技术团队学习并在Side Project中实践。"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "date": "2026-01-20",
+  "overview": {
+    "filterLogic": "基于「形态对齐 × 机制对齐 × 技术对齐」三维过滤，从今日32篇原始资讯中提取5条高价值情报。",
+    "valueJudgment": "本期重点：Roguelike品类持续火热，关注AI代码生成在游戏开发中的实践案例。"
+  },
+  "formFactor": [
+    {
+      "title": "《吸血鬼幸存者》移动版收入分析",
+      "link": "https://example.com/article",
+      "content": "Poncle工作室《吸血鬼幸存者》移动版累计收入突破5000万美元，验证了极简Roguelike在移动端的商业可行性。游戏采用买断制+DLC模式，用户LTV表现优异。",
+      "highlights": [
+        { "label": "商业模式", "text": "买断制+DLC模式在移动端可行" },
+        { "label": "品类验证", "text": "极简Roguelike移动化成功" }
+      ],
+      "suggestions": [
+        { "label": "品类研究", "text": "分析极简Roguelike的核心循环" }
+      ]
+    }
+  ],
+  "socialEvergreen": [
+    {
+      "title": "《Among Us》新赛季活跃度回升",
+      "link": "https://example.com/article2",
+      "content": "InnerSloth《Among Us》通过引入新角色和地图，DAU回升40%。社交推理游戏的生命周期可通过持续内容更新延长。",
+      "highlights": [
+        { "label": "运营策略", "text": "内容更新有效延长产品生命周期" }
+      ],
+      "suggestions": [
+        { "label": "内容规划", "text": "参考Among Us的更新节奏" }
+      ]
+    }
+  ],
+  "techStack": [
+    {
+      "title": "Cursor在游戏开发中的最佳实践",
+      "link": "https://example.com/article3",
+      "content": "多个独立游戏团队分享使用Cursor进行游戏开发的经验，AI辅助编码使原型开发效率提升3倍，但需要建立代码审查机制保证质量。",
+      "highlights": [
+        { "label": "效率提升", "text": "原型开发效率提升3倍" },
+        { "label": "风险控制", "text": "需要建立AI代码审查流程" }
+      ],
+      "suggestions": [
+        { "label": "流程优化", "text": "制定AI辅助开发规范" }
+      ]
+    }
+  ],
+  "aiNews": [
+    { "title": "Midjourney V7发布", "link": "https://example.com/ai1", "summary": "画质和一致性大幅提升" }
+  ],
+  "actionItems": [
+    { "priority": "P1", "action": "分析极简Roguelike核心循环", "owner": "策划组", "output": "品类分析文档" },
+    { "priority": "P1", "action": "制定AI辅助开发规范", "owner": "技术组", "output": "开发规范文档" }
+  ],
+  "evaluation": {
+    "dimensions": [
+      { "name": "形态对齐", "rating": "⭐⭐⭐⭐", "note": "Roguelike移动化数据亮眼" },
+      { "name": "机制对齐", "rating": "⭐⭐⭐", "note": "社交推理运营有参考" },
+      { "name": "技术对齐", "rating": "⭐⭐⭐⭐", "note": "AI开发实践值得关注" }
+    ],
+    "summary": "本期情报聚焦品类验证和AI开发实践。"
+  },
+  "sources": ["GameLook", "Sensor Tower"]
+}

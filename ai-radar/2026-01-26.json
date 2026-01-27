@@ -1,0 +1,97 @@
+{
+  "date": "2026-01-26",
+  "videos": [
+    {
+      "title": "再见，人类程序员！OpenAI自曝：一行代码都不写了，100%用Codex",
+      "channel": "RSS资讯",
+      "link": "https://mp.weixin.qq.com/s/3Rj7u36OSd7Uuo2z2GisOA",
+      "valueLabel": "high",
+      "valueReason": "OpenAI内部完全采用AI编程的实践案例，对AI工具落地有重要参考意义",
+      "content": "新智元报道OpenAI透露其内部已完全采用Codex进行编程，不再手写代码。这标志着AI编程从概念验证进入实际落地阶段，对游戏开发工具链的AI化升级有重要启示。",
+      "highlights": [
+        "AI技术",
+        "行业动态"
+      ],
+      "gameAIInsights": "关注该领域与游戏AI的结合点"
+    },
+    {
+      "title": "科学界爆发AI认知污染！1年狂投50篇论文，ICLR投稿20%AI生成",
+      "channel": "RSS资讯",
+      "link": "https://mp.weixin.qq.com/s/9dplnY89KHRxNeCL24I6DA",
+      "valueLabel": "medium",
+      "valueReason": "AI生成内容泛滥的警示，对内容质量把控有参考价值",
+      "content": "新智元报道科学界出现AI认知污染现象，部分研究者利用AI批量生成论文投稿。ICLR投稿中约20%被识别为AI生成。这一现象提醒我们在使用AI生成内容时需要建立质量把控机制。",
+      "highlights": [
+        "AI技术",
+        "行业动态"
+      ],
+      "gameAIInsights": "关注该领域与游戏AI的结合点"
+    },
+    {
+      "title": "OpenAI不Open！7年功勋老将投奔宿敌，实验室沦为API代工厂",
+      "channel": "RSS资讯",
+      "link": "https://mp.weixin.qq.com/s/-GF1FyjhjyVYRKnhJlr5qw",
+      "valueLabel": "medium",
+      "valueReason": "AI行业人才流动和格局变化，了解行业动态",
+      "content": "新智元报道OpenAI资深员工离职加入竞争对手，反映了AI行业人才竞争激烈和OpenAI内部可能存在的问题。文章讨论了OpenAI从研究机构向商业公司转型的挑战。",
+      "highlights": [
+        "AI技术",
+        "行业动态"
+      ],
+      "gameAIInsights": "关注该领域与游戏AI的结合点"
+    },
+    {
+      "title": "yyds！一个大模型的新方向，彻底爆发了！！",
+      "channel": "RSS资讯",
+      "link": "https://mp.weixin.qq.com/s/5V7jvlcb_lQLzzS1CG2vDA",
+      "valueLabel": "medium",
+      "valueReason": "大模型新技术方向，需持续跟踪其游戏应用潜力",
+      "content": "老刘说NLP报道了大模型领域的一个新技术方向正在爆发。该方向可能对游戏AI应用产生影响，需要持续跟踪其技术成熟度和落地场景。",
+      "highlights": [
+        "AI技术",
+        "行业动态"
+      ],
+      "gameAIInsights": "关注该领域与游戏AI的结合点"
+    },
+    {
+      "title": "当软件开始消失：Anthropic领投对话中国AI，揭秘2026年企业生存的唯一指标",
+      "channel": "RSS资讯",
+      "link": "https://mp.weixin.qq.com/s/Se5qAVA-KJchRxN2R81qHA",
+      "valueLabel": "medium",
+      "valueReason": "达沃斯论坛AI趋势讨论，了解行业宏观动态",
+      "content": "Web3天空之城报道了达沃斯2026论坛上关于AI的讨论。Anthropic领投对话中国AI，讨论了软件形态变革和AI驱动企业转型的趋势。对理解AI行业宏观发展有参考价值。",
+      "highlights": [
+        "AI技术",
+        "行业动态"
+      ],
+      "gameAIInsights": "关注该领域与游戏AI的结合点"
+    },
+    {
+      "title": "7×24h全职AI员工爆火硅谷！退休码农让Mac mini一夜卖爆",
+      "channel": "RSS资讯",
+      "link": "https://mp.weixin.qq.com/s/YjpnHIEj8vyrZrmNW8Wc8w",
+      "valueLabel": "medium",
+      "valueReason": "AI自动化工作的创业案例，对AI工具产品化有启发",
+      "content": "新智元报道硅谷出现的「全职AI员工」热潮，一位退休程序员利用Mac mini运行24小时AI Agent，实现自动化工作。这一案例对AI工具的产品化和商业模式有启发意义。",
+      "highlights": [
+        "AI技术",
+        "行业动态"
+      ],
+      "gameAIInsights": "关注该领域与游戏AI的结合点"
+    },
+    {
+      "title": "氛围编程将死！谷歌总监警告：只会写Prompt的程序员，2026年将被淘汰",
+      "channel": "RSS资讯",
+      "link": "https://mp.weixin.qq.com/s/XMaLLa3UqOaBCxQo1lxYLQ",
+      "valueLabel": "medium",
+      "valueReason": "AI编程能力要求趋势，对技术人才培养有参考价值",
+      "content": "新智元报道谷歌总监对AI编程趋势的警告。他认为只会写Prompt的程序员将被淘汰，需要具备更深层的技术理解能力。这对技术团队能力建设方向有参考意义。",
+      "highlights": [
+        "AI技术",
+        "行业动态"
+      ],
+      "gameAIInsights": "关注该领域与游戏AI的结合点"
+    }
+  ],
+  "generatedAt": "2026-01-26T11:59:15.617Z"
+}

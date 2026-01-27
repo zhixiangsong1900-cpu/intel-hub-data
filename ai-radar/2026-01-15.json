@@ -1,0 +1,29 @@
+{
+  "date": "2026-01-15",
+  "videos": [
+    {
+      "title": "OpenAI o1 for Game Design - Problem Solving Analysis",
+      "channel": "AI Explained",
+      "link": "https://youtube.com/watch?v=example1",
+      "content": "分析OpenAI o1模型在游戏设计问题中的表现，测试数值平衡、系统设计、bug分析等场景。o1的推理能力在复杂问题上表现突出。",
+      "highlights": ["推理能力强", "数值平衡分析", "系统设计辅助", "成本较高"],
+      "gameAIInsights": "o1适合解决复杂的游戏设计问题，但成本较高。建议在关键决策点使用，如核心循环设计、数值框架搭建等场景。"
+    },
+    {
+      "title": "Unreal Engine 5.4 AI Features Overview",
+      "channel": "Unreal Engine",
+      "link": "https://youtube.com/watch?v=example2",
+      "content": "Unreal Engine 5.4新增AI功能详解，包括智能导航、行为树增强、机器学习集成等。对开发者友好度大幅提升。",
+      "highlights": ["智能导航增强", "行为树可视化", "ML模型集成", "性能优化"],
+      "gameAIInsights": "UE5.4的AI功能已相当完善，使用Unreal的团队应尽快升级并学习新特性。特别关注ML集成功能。"
+    },
+    {
+      "title": "How Indie Devs Use AI - Success Stories",
+      "channel": "Indie Game Dev",
+      "link": "https://youtube.com/watch?v=example3",
+      "content": "多位独立开发者分享使用AI工具开发游戏的经验，有人用AI完成了90%的美术资产，有人用AI辅助编写了整个战斗系统。",
+      "highlights": ["美术资产AI化", "代码辅助实践", "小团队高效", "成功案例分析"],
+      "gameAIInsights": "独立开发者已经在实践中验证了AI工具的价值，大团队应该更积极地拥抱AI工具链。"
+    }
+  ]
+}

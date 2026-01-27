@@ -1,0 +1,65 @@
+{
+  "date": "2026-01-19",
+  "overview": {
+    "filterLogic": "基于「形态对齐 × 机制对齐 × 技术对齐」三维过滤，从今日38篇原始资讯中提取6条高价值情报。",
+    "valueJudgment": "本期重点：休闲游戏出海数据亮眼，AI在游戏QA中的应用案例增多。"
+  },
+  "formFactor": [
+    {
+      "title": "Voodoo 2025战略调整",
+      "link": "https://example.com/article",
+      "content": "超休闲巨头Voodoo宣布战略转型，从纯超休闲转向混合休闲，加大中度游戏投入。公司认为纯超休闲天花板已现，混合变现是未来。",
+      "highlights": [
+        { "label": "趋势判断", "text": "超休闲转向混合休闲是行业共识" },
+        { "label": "商业模式", "text": "混合变现提升LTV" }
+      ],
+      "suggestions": [
+        { "label": "战略调整", "text": "评估混合休闲产品线布局" }
+      ]
+    }
+  ],
+  "socialEvergreen": [
+    {
+      "title": "《Party Animals》Steam在线峰值分析",
+      "link": "https://example.com/article2",
+      "content": "Recreate Games《派对动物》Steam在线峰值达20万，派对游戏品类在PC端表现超预期。社交属性和直播友好度是关键成功因素。",
+      "highlights": [
+        { "label": "品类机会", "text": "派对游戏PC端有市场空间" },
+        { "label": "传播属性", "text": "直播友好度驱动自然流量" }
+      ],
+      "suggestions": [
+        { "label": "产品规划", "text": "评估派对游戏品类机会" }
+      ]
+    }
+  ],
+  "techStack": [
+    {
+      "title": "AI在游戏QA中的应用报告",
+      "link": "https://example.com/article3",
+      "content": "多家游戏公司分享AI自动化测试经验，AI可覆盖80%的回归测试用例，大幅降低QA人力成本。但创意测试仍需人工把关。",
+      "highlights": [
+        { "label": "效率提升", "text": "AI覆盖80%回归测试" },
+        { "label": "局限性", "text": "创意和体验测试仍需人工" }
+      ],
+      "suggestions": [
+        { "label": "流程优化", "text": "引入AI自动化测试工具" }
+      ]
+    }
+  ],
+  "aiNews": [
+    { "title": "OpenAI GPT Store游戏类应用增长", "link": "https://example.com/ai1", "summary": "游戏辅助类GPT应用增长100%" }
+  ],
+  "actionItems": [
+    { "priority": "P1", "action": "评估混合休闲产品策略", "owner": "策划组", "output": "品类分析" },
+    { "priority": "P2", "action": "调研AI自动化测试工具", "owner": "QA组", "output": "工具评估报告" }
+  ],
+  "evaluation": {
+    "dimensions": [
+      { "name": "形态对齐", "rating": "⭐⭐⭐⭐", "note": "混合休闲趋势明确" },
+      { "name": "机制对齐", "rating": "⭐⭐⭐", "note": "派对游戏有参考价值" },
+      { "name": "技术对齐", "rating": "⭐⭐⭐", "note": "AI QA应用值得关注" }
+    ],
+    "summary": "本期情报聚焦休闲品类演进和AI测试应用。"
+  },
+  "sources": ["GameLook", "GamesIndustry"]
+}

@@ -1,0 +1,65 @@
+{
+  "date": "2026-01-15",
+  "overview": {
+    "filterLogic": "基于「形态对齐 × 机制对齐 × 技术对齐」三维过滤，从今日30篇原始资讯中提取5条高价值情报。",
+    "valueJudgment": "本期重点：放置类游戏变现效率创新高，关注AI生成资产的法律风险。"
+  },
+  "formFactor": [
+    {
+      "title": "放置类游戏2025年市场报告",
+      "link": "https://example.com/article",
+      "content": "Sensor Tower发布放置类游戏市场报告，2025年全球收入突破50亿美元，年增长率25%。竖版放置是增长最快的细分品类。",
+      "highlights": [
+        { "label": "市场规模", "text": "放置品类年收入50亿美元" },
+        { "label": "增长趋势", "text": "竖版放置增速最快" }
+      ],
+      "suggestions": [
+        { "label": "品类布局", "text": "加大竖版放置品类投入" }
+      ]
+    }
+  ],
+  "socialEvergreen": [
+    {
+      "title": "社交游戏用户行为研究报告",
+      "link": "https://example.com/article2",
+      "content": "研究显示Z世代用户更偏好轻社交互动，公会系统使用率下降，而随机匹配短局社交更受欢迎。",
+      "highlights": [
+        { "label": "用户洞察", "text": "Z世代偏好轻社交" },
+        { "label": "设计趋势", "text": "短局随机匹配更受欢迎" }
+      ],
+      "suggestions": [
+        { "label": "社交设计", "text": "优化轻社交机制" }
+      ]
+    }
+  ],
+  "techStack": [
+    {
+      "title": "Unity ML-Agents最新案例分享",
+      "link": "https://example.com/article3",
+      "content": "Unity分享多个ML-Agents在游戏AI中的应用案例，包括自动平衡调整、智能NPC行为学习等，对中小团队来说成本可控。",
+      "highlights": [
+        { "label": "应用场景", "text": "自动平衡和智能NPC" },
+        { "label": "成本", "text": "中小团队可负担" }
+      ],
+      "suggestions": [
+        { "label": "技术储备", "text": "学习ML-Agents基础应用" }
+      ]
+    }
+  ],
+  "aiNews": [
+    { "title": "Stable Diffusion 3发布", "link": "https://example.com/ai1", "summary": "文字渲染能力大幅提升" }
+  ],
+  "actionItems": [
+    { "priority": "P1", "action": "评估竖版放置品类机会", "owner": "策划组", "output": "立项评估" },
+    { "priority": "P2", "action": "学习ML-Agents基础", "owner": "技术组", "output": "学习总结" }
+  ],
+  "evaluation": {
+    "dimensions": [
+      { "name": "形态对齐", "rating": "⭐⭐⭐⭐⭐", "note": "放置品类数据强劲" },
+      { "name": "机制对齐", "rating": "⭐⭐⭐", "note": "社交趋势有参考" },
+      { "name": "技术对齐", "rating": "⭐⭐⭐", "note": "ML-Agents值得关注" }
+    ],
+    "summary": "本期情报验证放置品类机会，建议重点布局。"
+  },
+  "sources": ["Sensor Tower", "Unity Blog"]
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2026-01-21",
+  "videos": [
+    {
+      "title": "NVIDIA ACE for Games Demo - Real-time AI NPCs",
+      "channel": "NVIDIA",
+      "link": "https://youtube.com/watch?v=example1",
+      "content": "NVIDIA展示ACE技术在游戏中的实际应用，AI NPC可以实时理解玩家意图并做出自然反应。Demo展示了RPG场景中NPC的情感表达和记忆能力。",
+      "highlights": ["实时对话响应", "情感表达自然", "支持长期记忆", "GPU加速推理"],
+      "gameAIInsights": "NVIDIA ACE技术成熟度已达到可商用水平，建议在下一款RPG项目中进行原型验证。重点关注其与Unity/Unreal的集成方案。"
+    },
+    {
+      "title": "How AI is Changing Game Development in 2026",
+      "channel": "GDC",
+      "link": "https://youtube.com/watch?v=example2",
+      "content": "GDC演讲回顾，多位游戏开发者分享AI工具在实际项目中的应用经验。涵盖美术生成、代码辅助、测试自动化等多个方向。",
+      "highlights": ["美术生产效率提升50%", "代码辅助成为标配", "QA自动化覆盖率80%", "小团队受益最大"],
+      "gameAIInsights": "AI工具链已从实验阶段进入实用阶段，建议团队系统性引入AI工具，优先从美术预览和代码辅助开始。"
+    },
+    {
+      "title": "Sora for Game Cinematics - Complete Tutorial",
+      "channel": "AI Film Studio",
+      "link": "https://youtube.com/watch?v=example3",
+      "content": "详细教程展示如何使用Sora生成游戏过场动画，包括提示词技巧、风格控制、后期修复流程。成本对比显示可节省70%以上的CG预算。",
+      "highlights": ["完整工作流演示", "提示词工程技巧", "风格一致性控制", "成本节省70%"],
+      "gameAIInsights": "Sora在过场动画制作中已具备实用价值，但需要建立美术QA流程。建议先在非关键剧情尝试，积累经验后推广。"
+    }
+  ]
+}

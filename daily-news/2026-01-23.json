@@ -1,0 +1,68 @@
+{
+  "date": "2026-01-23",
+  "overview": {
+    "filterLogic": "基于「形态对齐 × 机制对齐 × 技术对齐」三维过滤，从今日35篇原始资讯中提取6条高价值情报。",
+    "valueJudgment": "本期重点：休闲放置品类持续增长，AI代理技术在游戏中的应用加速，关注工作室并购动态。"
+  },
+  "formFactor": [
+    {
+      "title": "《咸鱼之王》竖版放置卡牌月流水突破8亿",
+      "link": "https://example.com/article",
+      "content": "阿里游戏《咸鱼之王》持续霸榜，竖版放置+卡牌收集的组合被验证为高度可复制的成功模式。游戏采用极简单局设计，平均单局不超过30秒，完美适配碎片化场景。",
+      "highlights": [
+        { "label": "商业验证", "text": "月流水8亿，放置卡牌赛道天花板再被拉高" },
+        { "label": "产品设计", "text": "30秒单局极致碎片化，用户无负担" }
+      ],
+      "suggestions": [
+        { "label": "竞品研究", "text": "深度拆解咸鱼之王的付费点设计" },
+        { "label": "玩法验证", "text": "评估放置卡牌品类的市场空间" }
+      ]
+    }
+  ],
+  "socialEvergreen": [
+    {
+      "title": "《原神》4.4版本社交活动数据分析",
+      "link": "https://example.com/article2",
+      "content": "米哈游《原神》4.4海灯节活动期间，多人联机参与率达到历史新高。分析显示，限时社交活动+稀缺奖励的组合有效提升用户活跃度和付费转化。",
+      "highlights": [
+        { "label": "运营策略", "text": "限时活动+社交任务提升30%DAU" },
+        { "label": "心理机制", "text": "稀缺性+社交压力驱动FOMO消费" }
+      ],
+      "suggestions": [
+        { "label": "活动设计", "text": "参考海灯节设计限时社交活动框架" }
+      ]
+    }
+  ],
+  "techStack": [
+    {
+      "title": "Character.AI游戏版SDK发布",
+      "link": "https://example.com/article3",
+      "content": "Character.AI正式发布面向游戏开发者的SDK，支持实时对话NPC、情感反馈系统。SDK针对移动端优化，延迟控制在200ms以内，适合休闲游戏集成。",
+      "highlights": [
+        { "label": "技术突破", "text": "200ms延迟达到实时对话标准" },
+        { "label": "商业模式", "text": "按对话轮次计费，成本可控" }
+      ],
+      "suggestions": [
+        { "label": "POC验证", "text": "接入SDK进行休闲游戏NPC原型测试" }
+      ]
+    }
+  ],
+  "aiNews": [
+    { "title": "Anthropic发布Claude 3.5升级版", "link": "https://example.com/ai1", "summary": "编程能力进一步提升，游戏开发辅助更强" },
+    { "title": "RunwayML推出实时视频风格迁移", "link": "https://example.com/ai2", "summary": "游戏美术预览流程可能被颠覆" }
+  ],
+  "actionItems": [
+    { "priority": "P0", "action": "拆解咸鱼之王付费设计", "owner": "策划组", "output": "付费分析文档" },
+    { "priority": "P1", "action": "测试Character.AI SDK", "owner": "技术组", "output": "接入评估报告" },
+    { "priority": "P2", "action": "设计限时社交活动框架", "owner": "运营组", "output": "活动模板" }
+  ],
+  "evaluation": {
+    "dimensions": [
+      { "name": "形态对齐", "rating": "⭐⭐⭐⭐", "note": "放置卡牌赛道数据亮眼" },
+      { "name": "机制对齐", "rating": "⭐⭐⭐", "note": "社交活动运营有参考价值" },
+      { "name": "技术对齐", "rating": "⭐⭐⭐⭐", "note": "Character.AI SDK值得关注" }
+    ],
+    "summary": "本期情报聚焦放置品类和AI对话，建议重点跟进SDK测试。"
+  },
+  "sources": ["GameLook", "游戏葡萄", "Sensor Tower"]
+}

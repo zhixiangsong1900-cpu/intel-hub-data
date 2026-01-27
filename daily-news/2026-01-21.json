@@ -1,0 +1,68 @@
+{
+  "date": "2026-01-21",
+  "overview": {
+    "filterLogic": "基于「形态对齐 × 机制对齐 × 技术对齐」三维过滤，从今日40篇原始资讯中提取7条高价值情报。",
+    "valueJudgment": "本期重点：小游戏平台竞争白热化，AI生成内容版权问题引发关注，关注出海东南亚新机会。"
+  },
+  "formFactor": [
+    {
+      "title": "抖音小游戏DAU突破3亿背后",
+      "link": "https://example.com/article",
+      "content": "抖音小游戏平台DAU突破3亿，超越微信小游戏成为第一大小游戏平台。短视频+小游戏的流量闭环被验证，广告变现效率超越传统渠道。",
+      "highlights": [
+        { "label": "平台趋势", "text": "抖音小游戏成为新的流量洼地" },
+        { "label": "商业模式", "text": "短视频导流+广告变现形成闭环" }
+      ],
+      "suggestions": [
+        { "label": "渠道布局", "text": "评估抖音小游戏发行策略" },
+        { "label": "产品适配", "text": "分析适合抖音的小游戏品类" }
+      ]
+    }
+  ],
+  "socialEvergreen": [
+    {
+      "title": "《蛋仔派对》创作者大会亮点",
+      "link": "https://example.com/article2",
+      "content": "网易《蛋仔派对》创作者大会公布新数据：头部创作者年收入超百万，平台将加大AI辅助创作工具投入，降低创作门槛。",
+      "highlights": [
+        { "label": "生态建设", "text": "创作者经济规模持续扩大" },
+        { "label": "技术支持", "text": "AI工具将成为UGC标配" }
+      ],
+      "suggestions": [
+        { "label": "功能规划", "text": "加速AI辅助UGC工具研发" }
+      ]
+    }
+  ],
+  "techStack": [
+    {
+      "title": "NVIDIA发布GameWorks AI新版本",
+      "link": "https://example.com/article3",
+      "content": "NVIDIA GameWorks AI 2.0发布，新增NPC行为树自动生成、场景智能布局功能。支持Unreal和Unity双引擎，对中小团队友好。",
+      "highlights": [
+        { "label": "效率提升", "text": "NPC行为设计时间缩短70%" },
+        { "label": "适用范围", "text": "支持主流引擎，接入成本低" }
+      ],
+      "suggestions": [
+        { "label": "技术评估", "text": "评估GameWorks AI在项目中的应用" }
+      ]
+    }
+  ],
+  "aiNews": [
+    { "title": "Google发布Gemini 2.0 Flash", "link": "https://example.com/ai1", "summary": "速度快3倍，适合游戏实时场景" },
+    { "title": "ElevenLabs推出游戏语音解决方案", "link": "https://example.com/ai2", "summary": "支持实时语音合成，配音成本大幅降低" }
+  ],
+  "actionItems": [
+    { "priority": "P0", "action": "调研抖音小游戏发行策略", "owner": "发行组", "output": "渠道分析报告" },
+    { "priority": "P1", "action": "测试NVIDIA GameWorks AI", "owner": "技术组", "output": "技术评估文档" },
+    { "priority": "P2", "action": "评估ElevenLabs语音方案", "owner": "音频组", "output": "成本分析" }
+  ],
+  "evaluation": {
+    "dimensions": [
+      { "name": "形态对齐", "rating": "⭐⭐⭐⭐⭐", "note": "抖音小游戏数据重磅" },
+      { "name": "机制对齐", "rating": "⭐⭐⭐⭐", "note": "UGC生态持续利好" },
+      { "name": "技术对齐", "rating": "⭐⭐⭐⭐", "note": "NVIDIA工具值得关注" }
+    ],
+    "summary": "本期情报质量高，抖音小游戏和NVIDIA工具是重点方向。"
+  },
+  "sources": ["GameLook", "游戏葡萄", "NVIDIA Blog"]
+}

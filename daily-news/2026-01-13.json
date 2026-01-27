@@ -1,0 +1,64 @@
+{
+  "date": "2026-01-13",
+  "overview": {
+    "filterLogic": "基于「形态对齐 × 机制对齐 × 技术对齐」三维过滤，从今日25篇原始资讯中提取4条高价值情报。",
+    "valueJudgment": "本期重点：2025年度游戏市场回顾，AI工具链成熟度提升。"
+  },
+  "formFactor": [
+    {
+      "title": "2025年全球手游市场总结",
+      "link": "https://example.com/article",
+      "content": "2025年全球手游市场规模达920亿美元，同比增长8%。休闲和放置品类增速最快，竞技品类趋于饱和。",
+      "highlights": [
+        { "label": "市场规模", "text": "手游市场达920亿美元" },
+        { "label": "品类趋势", "text": "休闲放置增速最快" }
+      ],
+      "suggestions": [
+        { "label": "战略规划", "text": "聚焦休闲放置赛道" }
+      ]
+    }
+  ],
+  "socialEvergreen": [
+    {
+      "title": "UGC平台年度报告",
+      "link": "https://example.com/article2",
+      "content": "Roblox、蛋仔派对等UGC平台用户规模持续增长，创作者经济成为新增长点，平台分成收入突破10亿美元。",
+      "highlights": [
+        { "label": "生态规模", "text": "创作者分成破10亿美元" }
+      ],
+      "suggestions": [
+        { "label": "生态建设", "text": "研究创作者激励机制" }
+      ]
+    }
+  ],
+  "techStack": [
+    {
+      "title": "游戏AI工具链成熟度报告",
+      "link": "https://example.com/article3",
+      "content": "分析机构发布游戏AI工具链报告，AI在美术生成、代码辅助、QA测试等领域已达到可商用水平，预计2026年将成为行业标配。",
+      "highlights": [
+        { "label": "成熟度", "text": "多领域AI工具已可商用" },
+        { "label": "趋势预测", "text": "2026年将成为标配" }
+      ],
+      "suggestions": [
+        { "label": "工具引入", "text": "全面评估AI工具链" }
+      ]
+    }
+  ],
+  "aiNews": [
+    { "title": "Adobe Firefly游戏版发布", "link": "https://example.com/ai1", "summary": "专为游戏美术优化" }
+  ],
+  "actionItems": [
+    { "priority": "P0", "action": "制定2026年品类战略", "owner": "战略组", "output": "年度规划" },
+    { "priority": "P1", "action": "评估AI工具链引入", "owner": "技术组", "output": "工具评估" }
+  ],
+  "evaluation": {
+    "dimensions": [
+      { "name": "形态对齐", "rating": "⭐⭐⭐⭐", "note": "年度趋势明确" },
+      { "name": "机制对齐", "rating": "⭐⭐⭐⭐", "note": "UGC生态持续向好" },
+      { "name": "技术对齐", "rating": "⭐⭐⭐⭐⭐", "note": "AI工具链关键年" }
+    ],
+    "summary": "年度开篇情报，明确全年战略方向。"
+  },
+  "sources": ["Sensor Tower", "Newzoo", "游戏葡萄"]
+}
