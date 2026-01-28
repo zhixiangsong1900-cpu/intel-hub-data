@@ -1,0 +1,141 @@
+{
+  "categories": [
+    {
+      "id": "pc",
+      "name": "PC游戏平台",
+      "icon": "Monitor",
+      "links": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/",
+          "icon": "steam",
+          "description": "全球最大PC游戏平台"
+        },
+        {
+          "name": "itch.io",
+          "url": "https://itch.io/",
+          "icon": "itchio",
+          "description": "独立游戏分发平台"
+        },
+        {
+          "name": "AppMagic",
+          "url": "https://appmagic.rocks/top-charts/apps",
+          "icon": "chart",
+          "description": "移动应用市场数据分析"
+        }
+      ]
+    },
+    {
+      "id": "mobile",
+      "name": "移动游戏平台",
+      "icon": "Smartphone",
+      "links": [
+        {
+          "name": "APKCombo",
+          "url": "https://apkcombo.com/zh/",
+          "icon": "android",
+          "description": "Android APK下载站"
+        },
+        {
+          "name": "Google Play",
+          "url": "https://play.google.com/store/games",
+          "icon": "play",
+          "description": "Google官方应用商店"
+        },
+        {
+          "name": "TapTap",
+          "url": "https://www.taptap.cn/",
+          "icon": "taptap",
+          "description": "国内游戏社区平台"
+        }
+      ]
+    },
+    {
+      "id": "browser",
+      "name": "网页游戏平台",
+      "icon": "Globe",
+      "links": [
+        {
+          "name": "CrazyGames",
+          "url": "https://www.crazygames.com/",
+          "icon": "game",
+          "description": "免费在线游戏平台"
+        },
+        {
+          "name": "Poki",
+          "url": "https://poki.com/zh",
+          "icon": "poki",
+          "description": "免费在线小游戏"
+        }
+      ]
+    },
+    {
+      "id": "youtube",
+      "name": "YouTube游戏博主",
+      "icon": "Youtube",
+      "links": [
+        {
+          "name": "MaryVerGamer",
+          "url": "https://www.youtube.com/@MaryVerGamer",
+          "icon": "youtube",
+          "description": "游戏试玩与评测"
+        },
+        {
+          "name": "gameworker666",
+          "url": "https://www.youtube.com/@gameworker666",
+          "icon": "youtube",
+          "description": "游戏开发与评测"
+        },
+        {
+          "name": "newgamesdaily",
+          "url": "https://www.youtube.com/@newgamesdaily",
+          "icon": "youtube",
+          "description": "每日新游资讯"
+        },
+        {
+          "name": "LilyG_Gameplays",
+          "url": "https://www.youtube.com/@LilyG_Gameplays",
+          "icon": "youtube",
+          "description": "游戏实况与攻略"
+        }
+      ]
+    },
+    {
+      "id": "bilibili",
+      "name": "Bilibili游戏博主",
+      "icon": "Video",
+      "links": [
+        {
+          "name": "UP主368689708",
+          "url": "https://space.bilibili.com/368689708/upload/video",
+          "icon": "bilibili",
+          "description": "B站游戏区UP主"
+        },
+        {
+          "name": "UP主18612988",
+          "url": "https://space.bilibili.com/18612988/upload/video",
+          "icon": "bilibili",
+          "description": "B站游戏区UP主"
+        },
+        {
+          "name": "UP主9297760",
+          "url": "https://space.bilibili.com/9297760/upload/video",
+          "icon": "bilibili",
+          "description": "B站游戏区UP主"
+        },
+        {
+          "name": "UP主21390661",
+          "url": "https://space.bilibili.com/21390661",
+          "icon": "bilibili",
+          "description": "B站游戏区UP主"
+        },
+        {
+          "name": "UP主617381",
+          "url": "https://space.bilibili.com/617381",
+          "icon": "bilibili",
+          "description": "B站游戏区UP主"
+        }
+      ]
+    }
+  ]
+}
