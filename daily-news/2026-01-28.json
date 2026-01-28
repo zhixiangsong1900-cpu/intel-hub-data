@@ -1,0 +1,421 @@
+{
+  "date": "2026-01-28",
+  "overview": {
+    "totalCount": 28,
+    "highValueCount": 5,
+    "mediumValueCount": 14,
+    "lowValueCount": 9,
+    "valueDistribution": "本期共收录 28 条情报：🔴高价值 5 条 / 🟡中价值 14 条 / 🟢低价值 9 条",
+    "filterLogic": "",
+    "valueJudgment": "本期重点信号：三七互娱AI渗透率超90%、《和平精英》古墓迷途模式上线展示PVE搜打撤新方向、AGI Hunt汇总AI领域重要观点。小游戏和SLG赛道持续火热，AI工具在游戏研发中的应用深度值得关注。"
+  },
+  "formFactor": [
+    {
+      "title": "敢想敢干的《和平精英》，在最卷的搜打撤里抬出一个新物种",
+      "link": "https://mp.weixin.qq.com/s/0G0fodG2wZTl1qL7hE-VkQ",
+      "valueLabel": "high",
+      "valueReason": "古墓迷途模式展示了PVE搜打撤的差异化方向，结合中式微恐+古墓探索题材，对搜打撤品类创新有重大参考价值",
+      "content": "《和平精英》上线古墓迷途模式，定位为\"新一代探墓摸金搜打撤\"。该模式结合古墓探索题材和中式微恐元素，在搜打撤黄金框架基础上对\"搜\"、\"打\"两个维度做了极大拓展。引入四种职业（特战先锋、道法传人、轩辕游侠、驱傩巫医）和MMORPG装备套装效果，强调团队配合的PVE体验。与洛阳古墓博物馆合作增加文化沉淀。体验服上线后迅速点燃社区热情，B站出现多个百万级播放视频。这是对传统PVP搜打撤的重要创新尝试。",
+      "highlights": [
+        {
+          "label": "玩法创新",
+          "text": "PVE搜打撤+中式微恐+古墓探索，将压力源从PVP博弈转向环境氛围"
+        },
+        {
+          "label": "职业设计",
+          "text": "四职业+装备套装，引入MMO机制增强团队协作体验"
+        },
+        {
+          "label": "文化融合",
+          "text": "与洛阳古墓博物馆合作，民俗鬼怪设计增加文化厚度"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "机制研究",
+          "text": "深入分析古墓迷途的PVE关卡设计和职业配合逻辑"
+        },
+        {
+          "label": "题材对标",
+          "text": "评估中式微恐/探墓题材在竖版产品中的可行性"
+        },
+        {
+          "label": "数据跟踪",
+          "text": "持续关注该模式DAU表现和留存数据"
+        }
+      ]
+    },
+    {
+      "title": "三七互娱：90后制作人占80%，AI渗透率超90%，希望保持小游戏TOP1地位",
+      "link": "https://mp.weixin.qq.com/s/txbK9PggarF9akFoRPHB0A",
+      "valueLabel": "high",
+      "valueReason": "披露了三七AI应用的具体数据和小游戏战略，对了解头部厂商AI工业化程度有重要参考价值",
+      "content": "三七互娱发布投资者关系活动记录，透露多项重要数据：AI渗透率超90%、AI自动投放比例超70%、美术环节AI渗透率65%。研发层面，90后制作人占比达80%，储备超10款产品聚焦小游戏和SLG赛道。战略目标：海外业务重回出海榜单前三、小游戏领域保持第一。《生存33天》使用AI进行24小时不间断平衡性测试。休闲赛道在三消和二合领域储备大量产品，预计今年下半年推出。",
+      "highlights": [
+        {
+          "label": "AI应用深度",
+          "text": "AI渗透率超90%，投放AI化70%，美术AI化65%，数据验证了AI工业化可行性"
+        },
+        {
+          "label": "人才年轻化",
+          "text": "90后制作人占比80%，北京上海研发分部超200人"
+        },
+        {
+          "label": "赛道布局",
+          "text": "小游戏+SLG+休闲三消/二合，储备超10款产品"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "AI对标",
+          "text": "梳理我们AI应用渗透率，对标三七65%美术AI化目标"
+        },
+        {
+          "label": "测试自动化",
+          "text": "参考《生存33天》AI平衡性测试方案，评估引入可行性"
+        },
+        {
+          "label": "赛道研究",
+          "text": "关注三消+二合赛道，研究三七即将推出的休闲产品"
+        }
+      ]
+    },
+    {
+      "title": "凉屋又曝光了一款单机动作游戏，这次是机械都市",
+      "link": "https://mp.weixin.qq.com/s/HfKnarKRNx_3xRnoDENYyQ",
+      "valueLabel": "medium",
+      "valueReason": "凉屋在单机ARPG赛道持续布局，赛博神话题材和动作设计思路可参考",
+      "content": "凉屋游戏曝光自研单机大作《蝼蚁之城》首支预告片。这是一款赛博神话背景的动作游戏，故事设定在充满科幻感的未来都市，玩家扮演被下令销毁的合成人，在死亡与重构的轮回中寻找真相。游戏融入东方元素，生物经历生化机械改造。以\"拼刀与时机\"为核心战斗机制，需要把握出手时机格挡、击退怪物攻击。预告片基于实机录制，已开启Steam商品页，由新加坡发行商Spiral Up Games发行。",
+      "highlights": [
+        {
+          "label": "题材融合",
+          "text": "赛博朋克+东方神话，差异化的美学定位"
+        },
+        {
+          "label": "战斗设计",
+          "text": "以拼刀与时机为核心，强调动作游戏的博弈感"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "美术参考",
+          "text": "关注其赛博+东方的美术融合方案"
+        }
+      ]
+    }
+  ],
+  "socialEvergreen": [
+    {
+      "title": "在几次绝境中挣扎出来，只为创作：《太吾绘卷》这十年",
+      "link": "https://mp.weixin.qq.com/s/b5UaDQbxCWNubuTPHZccKQ",
+      "valueLabel": "medium",
+      "valueReason": "独立游戏长线运营的真实案例，对理解独立开发者心态和产品迭代有参考价值",
+      "content": "《太吾绘卷》制作人茄子分享了从2018年EA至今的开发历程。2022年遭遇核心程序离职的打击，在6个月内重写整个程序框架。现在的文本量达到400万字，进行了约40次超大型更新。2026年4月将上线完全版，所有主线故事写完，有真正的结局。茄子明确划分服务型游戏与独立游戏的界限，对AI技术在独立游戏中的应用持克制态度。下一部作品将取材于《山海经》，计划做一个真正的沙盒世界。",
+      "highlights": [
+        {
+          "label": "长线运营",
+          "text": "10年开发周期，400万字文本，40次超大型更新"
+        },
+        {
+          "label": "创作理念",
+          "text": "坚持独立游戏是信仰而非服务，对AI应用保持克制"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "案例研究",
+          "text": "分析《太吾绘卷》的玩家社区运营和内容迭代策略"
+        }
+      ]
+    },
+    {
+      "title": "4人团队东莞起家，2年销售额破亿",
+      "link": "https://mp.weixin.qq.com/s/KrvnMnSxrS9RfWUsa02SQA",
+      "valueLabel": "medium",
+      "valueReason": "小团队出海成功案例，AI功能应用和碎片化场景思路对产品设计有参考价值",
+      "content": "Ikarao是台德集团的卡拉OK音箱子品牌，4人团队2023年启动出海，首年销售额突破百万美元，次年同比增长300%，2025年预计破亿人民币。核心策略：选择\"大人群、小分类\"赛道，用高端产品先测试市场。AI功能规划：虚拟主持人暖场、面部情绪识别调节灯光、AI改编歌曲实现跨代互动。产品理念：不追求痛点而追求爽点，将卡拉OK做成\"泛娱乐入口\"，实现听、唱、看全场景覆盖。",
+      "highlights": [
+        {
+          "label": "小团队模式",
+          "text": "4人团队2年破亿，验证垂直品类出海可行性"
+        },
+        {
+          "label": "AI应用思路",
+          "text": "AI主持人、情绪识别、跨代歌曲改编，增强娱乐体验"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "场景思考",
+          "text": "参考\"空间+关系\"的场景拆解思路，应用于游戏设计"
+        }
+      ]
+    }
+  ],
+  "techStack": [
+    {
+      "title": "告别AI土味审美！Kimi K2.5实测：扔个视频复刻iOS级丝滑动效",
+      "link": "https://mp.weixin.qq.com/s/udlZJIu-aqRFdMhvq27zyw",
+      "valueLabel": "high",
+      "valueReason": "Kimi K2.5在前端开发中的实测效果展示，对AI辅助UI开发有直接参考价值",
+      "content": "歸藏AI工具箱对Kimi K2.5进行实测，展示了通过视频输入即可复刻iOS级丝滑动效的能力。该模型在前端代码生成方面表现出色，能够理解视频中的动效并生成相应代码，标志着AI在UI/UX开发辅助方面的重要进步。这对于游戏UI开发和快速原型验证具有潜在应用价值。",
+      "highlights": [
+        {
+          "label": "多模态输入",
+          "text": "视频输入生成代码，降低动效开发门槛"
+        },
+        {
+          "label": "效果质量",
+          "text": "能够复刻iOS级丝滑动效，说明生成质量可用"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "工具评估",
+          "text": "测试Kimi K2.5在游戏UI动效开发中的实际效果"
+        },
+        {
+          "label": "流程探索",
+          "text": "探索视频参考→AI生成→人工调优的UI开发流程"
+        }
+      ]
+    }
+  ],
+  "aiNews": [
+    {
+      "title": "AGI Hunt精选：AI领域重要观点汇总（1.27）",
+      "link": "https://mp.weixin.qq.com/s/K-hVuHCvfCVmqZJb6HPo7g",
+      "valueLabel": "high",
+      "valueReason": "汇集Sam Altman、Andrej Karpathy、Dario Amodei等顶级AI人物观点，对把握AI发展方向有重要参考",
+      "summary": "核心观点：1) Andrej Karpathy编码已从80%手写转为80% AI生成；2) Sam Altman预测年底凭100-1000美元推理成本可创建过去需多人一年的软件；3) AI反馈循环已开始形成，未来几年将快速加速；4) AI将优先替代理性且重复的动词性任务；5) 实现全自主人形机器人复杂度约为Robotaxi的20万倍。"
+    },
+    {
+      "title": "AGI Hunt精选：AI领域重要观点汇总（1.26）",
+      "link": "https://mp.weixin.qq.com/s/jRQSHCXYL_2yDbqe0O8Yog",
+      "valueLabel": "high",
+      "valueReason": "多位AI领袖观点汇总，涵盖AGI路径、持续学习、多智能体协作等前沿话题",
+      "summary": "核心观点：1) Terence Tao认为AI发展表明我们对智力的传统定义存在偏差；2) Yann LeCun警告技术行业可能盲目追随某些路线陷入死胡同；3) 持续学习是实现AGI的必要条件；4) 多智能体群组应叫团队或组织而非swarms；5) 使用编码智能体时重新遭遇委托问题；6) 机器学习领域存在严重自恋问题影响团队文化。"
+    },
+    {
+      "title": "腾讯郭凯天：让AI成为尊重人、成就人、有温度的力量",
+      "link": "https://mp.weixin.qq.com/s/bXLG0zhOb9bT7uDsgCPnYg",
+      "valueLabel": "medium",
+      "valueReason": "腾讯高层对AI向善的思考，反映大厂AI战略定位",
+      "summary": "郭凯天在科技向善创新节分享三点：1) 耐心-AI是长周期马拉松而非百米冲刺，不存在谁有票别人上不了车；2) 信心-AI不是替代而是调整分工，腾讯元宝在农村用得很好；3) 善心-要让人不被AI落下，关注弹性空间小的弱势群体。马化腾表示要有长期耐力跑完AI这场长跑。"
+    },
+    {
+      "title": "Sam Altman与开发者的一小时：GPT-5搞砸了、招聘放缓",
+      "link": "https://mp.weixin.qq.com/s/-J364luFOHGzxkdWooJmbQ",
+      "valueLabel": "medium",
+      "valueReason": "Sam Altman最新访谈，涉及GPT-5进展和OpenAI战略调整",
+      "summary": "Sam Altman与开发者对话，讨论GPT-5开发遇到的问题、OpenAI招聘放缓，以及2026年最担心的事情。这反映了大模型发展进入新阶段，头部公司也面临技术和组织挑战。"
+    },
+    {
+      "title": "马化腾回应AI焦虑，希望重现当年微信红包盛况",
+      "link": "https://mp.weixin.qq.com/s/66UEqYcNxthly4vzem6MfQ",
+      "valueLabel": "medium",
+      "valueReason": "腾讯AI战略的最新表态，千问最强模型发布",
+      "summary": "马化腾回应AI焦虑，希望重现微信红包盛况。豆包手机助手遭点名质疑后回应。阿里千问最强模型深夜发布。反映了国内AI竞争格局的最新动态。"
+    },
+    {
+      "title": "刚拒绝Adobe收购，这家AI视频创企又融资、估值涨了9亿美元",
+      "link": "https://mp.weixin.qq.com/s/JShvoBuoAdqcYdGVrMyDTQ",
+      "valueLabel": "medium",
+      "valueReason": "AI视频领域融资动态，反映该赛道持续火热",
+      "summary": "某AI视频创业公司拒绝Adobe收购后再次融资，估值增加9亿美元。AI视频生成是当前最热门的AI应用方向之一，对游戏CG制作和营销素材生产有潜在影响。"
+    },
+    {
+      "title": "Clawdbot爆火的4个原因",
+      "link": "https://mp.weixin.qq.com/s/fyKr0bJEJd1UXleV6sbHzQ",
+      "valueLabel": "medium",
+      "valueReason": "分析AI产品爆火原因，对AI应用产品设计有参考价值",
+      "summary": "分析Clawdbot作为AI产品爆火的原因。虽然Eric Hartford认为其实际效果未达预期，但爆火本身说明AI产品的传播有其独特规律。"
+    },
+    {
+      "title": "豆包、ChatGPT、Gemini同台PK，谁才是博物馆最强逛展搭子",
+      "link": "https://mp.weixin.qq.com/s/VdK_dgjiq6jgLwVH0Xfjbg",
+      "valueLabel": "low",
+      "valueReason": "AI助手对比评测，场景较为垂直，参考价值有限",
+      "summary": "APPSO对豆包、ChatGPT、Gemini在博物馆逛展场景的对比评测，展示不同AI助手在特定场景下的表现差异。"
+    }
+  ],
+  "otherNews": [
+    {
+      "title": "2026最狠降维打击：腾讯网易偷偷杀进这个500亿的赛道",
+      "link": "https://mp.weixin.qq.com/s/Oce8qWMZBiwRVMm38-dP9w",
+      "valueLabel": "medium",
+      "valueReason": "腾讯网易布局新赛道，需关注具体方向",
+      "content": "游戏那点事报道腾讯网易悄悄进入一个500亿规模的赛道。这反映了头部厂商的战略布局调整，具体赛道和布局方式值得进一步关注。"
+    },
+    {
+      "title": "阿里孵化的AI团队，曝光了一款太空题材策略RPG",
+      "link": "https://mp.weixin.qq.com/s/zI3hZRga_guJeSc6fGTR3w",
+      "valueLabel": "medium",
+      "valueReason": "阿里游戏业务动向，AI团队做游戏值得关注",
+      "content": "阿里孵化的AI团队曝光一款太空题材策略RPG。这显示了互联网大厂将AI能力与游戏开发结合的尝试，可能代表一种新的游戏研发模式。"
+    },
+    {
+      "title": "点点途游益世界混战，2026年SLG赛道还得玩命卷",
+      "link": "https://mp.weixin.qq.com/s/Z54nTNmATo42H0cuFuiXeg",
+      "valueLabel": "medium",
+      "valueReason": "SLG赛道竞争格局分析，对了解市场态势有价值",
+      "content": "竞核分析2026年SLG赛道竞争格局，点点、途游、益世界等厂商混战。SLG仍是高利润但竞争激烈的赛道，需要持续关注头部产品动态。"
+    },
+    {
+      "title": "2026年第一季度43款新游盘点",
+      "link": "https://mp.weixin.qq.com/s/i2wap_f6Cg5Tm2-jvojwvA",
+      "valueLabel": "medium",
+      "valueReason": "Q1新游汇总，可作为跟踪名单参考",
+      "content": "游戏客栈盘点2026年第一季度43款新游，涵盖多个品类和平台。可作为Q1需要关注的产品清单参考。"
+    },
+    {
+      "title": "近期SLG和休闲puzzle测试产品汇总",
+      "link": "https://mp.weixin.qq.com/s/q23VKFOOq4p4BfhXcIhF4g",
+      "valueLabel": "medium",
+      "valueReason": "SLG和休闲品类测试产品信息，有助于追踪市场动态",
+      "content": "王董的新游戏汇总近期SLG和休闲puzzle品类的测试产品，包含测试阶段、数据表现等信息。"
+    },
+    {
+      "title": "《决胜巅峰》连破全球收视纪录，移动电竞的天花板还远没到来",
+      "link": "https://mp.weixin.qq.com/s/FEZcRYPXedEa1NLjauFMtw",
+      "valueLabel": "low",
+      "valueReason": "电竞赛事报道，与产品研发关联度较低",
+      "content": "《决胜巅峰》连续打破全球收视纪录，显示移动电竞仍有增长空间。但主要是赛事层面的信息，对研发参考有限。"
+    },
+    {
+      "title": "世纪华通预计26年跟腾讯关联交易50亿",
+      "link": "https://mp.weixin.qq.com/s/qjNrczPdZtQh3j8dmsljRA",
+      "valueLabel": "low",
+      "valueReason": "财务数据类信息，了解即可",
+      "content": "世纪华通预计2026年与腾讯关联交易50亿。另外报道马化腾任宇昕马晓轶年会表演节目。"
+    },
+    {
+      "title": "2025年，世纪华通从腾讯渠道赚了34亿元",
+      "link": "https://mp.weixin.qq.com/s/kZnPMqZre0ZFomeOTXxz8w",
+      "valueLabel": "low",
+      "valueReason": "财务数据类信息，了解即可",
+      "content": "世纪华通2025年从腾讯渠道获得34亿元收入，反映渠道合作的商业价值。"
+    },
+    {
+      "title": "用户超10亿，联手腾网米王牌：春节最热抽卡项目今天揭幕",
+      "link": "https://mp.weixin.qq.com/s/dSMIAN6AO5IWRU_iCBjnDw",
+      "valueLabel": "low",
+      "valueReason": "营销活动类信息，参考价值有限",
+      "content": "某平台用户超10亿，联合腾讯网易米哈游推出春节抽卡活动。属于营销层面的信息。"
+    },
+    {
+      "title": "全球游戏历史总收入排行榜，腾讯独占两席",
+      "link": "https://mp.weixin.qq.com/s/HMHqIeI22Us7NzyIKEQKng",
+      "valueLabel": "low",
+      "valueReason": "榜单类信息，作为行业常识了解",
+      "content": "全球游戏历史总收入排行榜中，腾讯独占两席。展示了头部产品的长期商业价值。"
+    },
+    {
+      "title": "再度翻红的乌兰图雅，成了新的网络抽象圣体",
+      "link": "https://mp.weixin.qq.com/s/Oqyz9n0Q-5CQAoq9q_qiAw",
+      "valueLabel": "low",
+      "valueReason": "娱乐类内容，与游戏研发无直接关联",
+      "content": "3DM报道乌兰图雅再度翻红成为网络抽象圣体的现象。属于社交媒体文化观察。"
+    },
+    {
+      "title": "泰国奇异阳光工作室《罪域征途》定档1月27日",
+      "link": "https://mp.weixin.qq.com/s/LoWd1KRoRTK46wI1S_1QVQ",
+      "valueLabel": "low",
+      "valueReason": "新游上线信息，可追踪但优先级较低",
+      "content": "泰国奇异阳光工作室《罪域征途》定档1月27日，传奇战术题材。"
+    },
+    {
+      "title": "《OPUS：心相吾山》发售日公开|《彩虹六号》国服过审",
+      "link": "https://mp.weixin.qq.com/s/e9sbJRzURN1uSauwpA-3fQ",
+      "valueLabel": "low",
+      "valueReason": "游戏发售和过审信息，了解即可",
+      "content": "《OPUS：心相吾山》公开发售日，《彩虹六号》国服过审。属于新游动态快讯。"
+    },
+    {
+      "title": "《灾厄之石》EA试玩报告：有待完善",
+      "link": "https://mp.weixin.qq.com/s/l6ohS2ff8JQIrbw-jSJNsQ",
+      "valueLabel": "low",
+      "valueReason": "游戏评测信息，非重点关注产品",
+      "content": "3DM对《灾厄之石》EA版本的试玩报告，认为游戏有待完善。"
+    },
+    {
+      "title": "1.25-1.31预告：聊聊《终末地》",
+      "link": "https://mp.weixin.qq.com/s/IT7P58GCf1B-ua1AGeStUQ",
+      "valueLabel": "low",
+      "valueReason": "播客预告信息，了解即可",
+      "content": "机核电台预告将在1.25-1.31期间讨论《终末地》。"
+    }
+  ],
+  "actionItems": [
+    {
+      "priority": "P0",
+      "action": "深入分析《和平精英》古墓迷途模式的PVE设计",
+      "owner": "玩法策划",
+      "output": "PVE搜打撤设计参考文档"
+    },
+    {
+      "priority": "P0",
+      "action": "对标三七AI渗透率，评估我们的AI工具应用程度",
+      "owner": "技术中台",
+      "output": "AI应用现状评估报告"
+    },
+    {
+      "priority": "P1",
+      "action": "测试Kimi K2.5在游戏UI动效开发中的效果",
+      "owner": "UI开发",
+      "output": "AI辅助UI开发流程方案"
+    },
+    {
+      "priority": "P1",
+      "action": "研究三七休闲赛道（三消/二合）产品储备情况",
+      "owner": "市场研究",
+      "output": "休闲赛道竞品分析"
+    },
+    {
+      "priority": "P2",
+      "action": "跟踪Q1新游名单中的重点产品表现",
+      "owner": "市场研究",
+      "output": "Q1新游周报"
+    }
+  ],
+  "evaluation": {
+    "dimensions": [
+      {
+        "name": "形态对齐",
+        "rating": "⭐⭐⭐⭐",
+        "note": "《和平精英》古墓迷途展示PVE搜打撤创新方向，但竖版产品案例较少"
+      },
+      {
+        "name": "机制对齐",
+        "rating": "⭐⭐⭐",
+        "note": "《太吾绘卷》长线运营案例有参考价值，社交机制创新案例较少"
+      },
+      {
+        "name": "技术对齐",
+        "rating": "⭐⭐⭐⭐⭐",
+        "note": "三七AI渗透率数据、Kimi K2.5实测、AGI观点汇总都有很高参考价值"
+      }
+    ],
+    "summary": "本期情报在技术对齐维度价值最高，三七互娱的AI应用数据验证了游戏研发AI工业化的可行性。形态对齐方面《和平精英》古墓迷途模式值得深入研究。AI领域顶级人物观点为把握技术发展方向提供了重要参考。"
+  },
+  "sources": [
+    "游戏陀螺",
+    "AGI Hunt",
+    "腾讯研究院",
+    "白鲸出海",
+    "游戏新知",
+    "机核",
+    "竞核",
+    "3DM游戏网",
+    "游戏葡萄",
+    "游戏那点事",
+    "APPSO",
+    "歸藏的AI工具箱",
+    "游戏客栈",
+    "王董的新游戏",
+    "游讯先锋",
+    "宝玉AI",
+    "十字路口Crossing"
+  ],
+  "generatedAt": "2026-01-28T09:38:02.306Z"
+}
