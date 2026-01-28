@@ -1,0 +1,110 @@
+{
+  "date": "2026-01-28",
+  "videos": [
+    {
+      "title": "AGI Hunt精选：AI领域重要观点汇总（1.27）",
+      "channel": "RSS资讯",
+      "link": "https://mp.weixin.qq.com/s/K-hVuHCvfCVmqZJb6HPo7g",
+      "valueLabel": "high",
+      "valueReason": "汇集Sam Altman、Andrej Karpathy、Dario Amodei等顶级AI人物观点，对把握AI发展方向有重要参考",
+      "content": "核心观点：1) Andrej Karpathy编码已从80%手写转为80% AI生成；2) Sam Altman预测年底凭100-1000美元推理成本可创建过去需多人一年的软件；3) AI反馈循环已开始形成，未来几年将快速加速；4) AI将优先替代理性且重复的动词性任务；5) 实现全自主人形机器人复杂度约为Robotaxi的20万倍。",
+      "highlights": [
+        "AI技术",
+        "行业动态"
+      ],
+      "gameAIInsights": "关注该领域与游戏AI的结合点"
+    },
+    {
+      "title": "AGI Hunt精选：AI领域重要观点汇总（1.26）",
+      "channel": "RSS资讯",
+      "link": "https://mp.weixin.qq.com/s/jRQSHCXYL_2yDbqe0O8Yog",
+      "valueLabel": "high",
+      "valueReason": "多位AI领袖观点汇总，涵盖AGI路径、持续学习、多智能体协作等前沿话题",
+      "content": "核心观点：1) Terence Tao认为AI发展表明我们对智力的传统定义存在偏差；2) Yann LeCun警告技术行业可能盲目追随某些路线陷入死胡同；3) 持续学习是实现AGI的必要条件；4) 多智能体群组应叫团队或组织而非swarms；5) 使用编码智能体时重新遭遇委托问题；6) 机器学习领域存在严重自恋问题影响团队文化。",
+      "highlights": [
+        "AI技术",
+        "行业动态"
+      ],
+      "gameAIInsights": "关注该领域与游戏AI的结合点"
+    },
+    {
+      "title": "腾讯郭凯天：让AI成为尊重人、成就人、有温度的力量",
+      "channel": "RSS资讯",
+      "link": "https://mp.weixin.qq.com/s/bXLG0zhOb9bT7uDsgCPnYg",
+      "valueLabel": "medium",
+      "valueReason": "腾讯高层对AI向善的思考，反映大厂AI战略定位",
+      "content": "郭凯天在科技向善创新节分享三点：1) 耐心-AI是长周期马拉松而非百米冲刺，不存在谁有票别人上不了车；2) 信心-AI不是替代而是调整分工，腾讯元宝在农村用得很好；3) 善心-要让人不被AI落下，关注弹性空间小的弱势群体。马化腾表示要有长期耐力跑完AI这场长跑。",
+      "highlights": [
+        "AI技术",
+        "行业动态"
+      ],
+      "gameAIInsights": "关注该领域与游戏AI的结合点"
+    },
+    {
+      "title": "Sam Altman与开发者的一小时：GPT-5搞砸了、招聘放缓",
+      "channel": "RSS资讯",
+      "link": "https://mp.weixin.qq.com/s/-J364luFOHGzxkdWooJmbQ",
+      "valueLabel": "medium",
+      "valueReason": "Sam Altman最新访谈，涉及GPT-5进展和OpenAI战略调整",
+      "content": "Sam Altman与开发者对话，讨论GPT-5开发遇到的问题、OpenAI招聘放缓，以及2026年最担心的事情。这反映了大模型发展进入新阶段，头部公司也面临技术和组织挑战。",
+      "highlights": [
+        "AI技术",
+        "行业动态"
+      ],
+      "gameAIInsights": "关注该领域与游戏AI的结合点"
+    },
+    {
+      "title": "马化腾回应AI焦虑，希望重现当年微信红包盛况",
+      "channel": "RSS资讯",
+      "link": "https://mp.weixin.qq.com/s/66UEqYcNxthly4vzem6MfQ",
+      "valueLabel": "medium",
+      "valueReason": "腾讯AI战略的最新表态，千问最强模型发布",
+      "content": "马化腾回应AI焦虑，希望重现微信红包盛况。豆包手机助手遭点名质疑后回应。阿里千问最强模型深夜发布。反映了国内AI竞争格局的最新动态。",
+      "highlights": [
+        "AI技术",
+        "行业动态"
+      ],
+      "gameAIInsights": "关注该领域与游戏AI的结合点"
+    },
+    {
+      "title": "刚拒绝Adobe收购，这家AI视频创企又融资、估值涨了9亿美元",
+      "channel": "RSS资讯",
+      "link": "https://mp.weixin.qq.com/s/JShvoBuoAdqcYdGVrMyDTQ",
+      "valueLabel": "medium",
+      "valueReason": "AI视频领域融资动态，反映该赛道持续火热",
+      "content": "某AI视频创业公司拒绝Adobe收购后再次融资，估值增加9亿美元。AI视频生成是当前最热门的AI应用方向之一，对游戏CG制作和营销素材生产有潜在影响。",
+      "highlights": [
+        "AI技术",
+        "行业动态"
+      ],
+      "gameAIInsights": "关注该领域与游戏AI的结合点"
+    },
+    {
+      "title": "Clawdbot爆火的4个原因",
+      "channel": "RSS资讯",
+      "link": "https://mp.weixin.qq.com/s/fyKr0bJEJd1UXleV6sbHzQ",
+      "valueLabel": "medium",
+      "valueReason": "分析AI产品爆火原因，对AI应用产品设计有参考价值",
+      "content": "分析Clawdbot作为AI产品爆火的原因。虽然Eric Hartford认为其实际效果未达预期，但爆火本身说明AI产品的传播有其独特规律。",
+      "highlights": [
+        "AI技术",
+        "行业动态"
+      ],
+      "gameAIInsights": "关注该领域与游戏AI的结合点"
+    },
+    {
+      "title": "豆包、ChatGPT、Gemini同台PK，谁才是博物馆最强逛展搭子",
+      "channel": "RSS资讯",
+      "link": "https://mp.weixin.qq.com/s/VdK_dgjiq6jgLwVH0Xfjbg",
+      "valueLabel": "low",
+      "valueReason": "AI助手对比评测，场景较为垂直，参考价值有限",
+      "content": "APPSO对豆包、ChatGPT、Gemini在博物馆逛展场景的对比评测，展示不同AI助手在特定场景下的表现差异。",
+      "highlights": [
+        "AI技术",
+        "行业动态"
+      ],
+      "gameAIInsights": "关注该领域与游戏AI的结合点"
+    }
+  ],
+  "generatedAt": "2026-01-28T09:38:02.311Z"
+}
