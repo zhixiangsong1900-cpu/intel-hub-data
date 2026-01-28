@@ -4,13 +4,17 @@
 
 ## 目录结构
 
-```
-├── daily-news/          # 游戏日报数据
-│   ├── index.json       # 日期索引
-│   └── 2026-01-26.json  # 每日数据文件
-├── ai-radar/            # AI Radar 数据
-│   ├── index.json       # 日期索引
-│   └── 2026-01-26.json  # 每日数据文件
+github/
+├── ai-radar/           # AI Radar 数据
+│   ├── index.json
+│   └── 2026-01-xx.json
+├── daily-news/         # 游戏日报数据
+│   ├── index.json
+│   └── 2026-01-xx.json
+├── game-radar/         # 【新增】每日新游数据
+│   ├── index.json
+│   └── 2026-01-28.json  ← 刚采集的
+├── links.json          # 【新增】链接导航数据
 └── README.md
 ```
 
@@ -34,3 +38,4 @@ https://raw.githubusercontent.com/用户名/intel-hub-data/main/daily-news/2026-
 ```
 https://cdn.jsdelivr.net/gh/用户名/intel-hub-data/daily-news/index.json
 ```
+
