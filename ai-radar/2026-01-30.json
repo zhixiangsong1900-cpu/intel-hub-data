@@ -1,0 +1,115 @@
+{
+  "date": "2026-01-30",
+  "videos": [
+    {
+      "title": "Gemini 3.5泄露：一次性生成Game Boy模拟器",
+      "channel": "Medium / YouTube",
+      "link": "https://dinmaybrahma.medium.com/gemini-3-5-leaked-the-snowbunny-checkpoint-that-built-a-game-boy-emulator-in-one-shot-d1088919fb40",
+      "valueLabel": "high",
+      "valueReason": "单次提示生成完整模拟器，标志AI从助手进化为全栈引擎",
+      "content": "Google Gemini 3.5的一个泄露检查点「Snowbunny」引发轰动——它能在单次提示中完整生成一个Game Boy模拟器。这不再是对话助手，而是「全栈软件和媒体引擎」。Gemini 3 Flash已成为Gemini App默认模型，在GPQA Diamond（博士级科学推理）达到90.4%准确率，速度比Gemini 2.5 Pro快3倍，成本显著降低。",
+      "highlights": [
+        "单次提示生成完整Game Boy模拟器",
+        "GPQA Diamond达90.4%，博士级推理能力",
+        "速度比Gemini 2.5 Pro快3倍",
+        "定位：全栈软件和媒体引擎"
+      ],
+      "gameAIInsights": "单次生成模拟器意味着：复杂游戏原型可快速验证；小型独立游戏可能实现「一句话生成」；游戏工具链可AI自动生成。这是游戏开发范式变革的信号。"
+    },
+    {
+      "title": "Claude MCP Apps：9大工具直接在AI内交互",
+      "channel": "Anthropic官方博客",
+      "link": "https://claude.com/blog/interactive-tools-in-claude",
+      "valueLabel": "high",
+      "valueReason": "开创AI内嵌生产力工具先河，建立MCP Apps开放标准",
+      "content": "Anthropic于1月26日宣布9款生产力工具可在Claude内直接交互使用：Slack、Figma/FigJam、Canva、Asana、Amplitude、Box、Clay、Hex、monday.com。无需切换应用，对话即工作流。基于开源MCP Apps协议，建立工具集成开放标准。Salesforce Agentforce 360即将加入。",
+      "highlights": [
+        "9款主流生产力工具直接在Claude内操作",
+        "无需切换应用，对话即工作流",
+        "基于开源MCP Apps协议",
+        "Pro/Max/Team/Enterprise用户可用"
+      ],
+      "gameAIInsights": "游戏团队可受益：Figma集成适合UI/UX设计评审；Asana/monday.com集成可AI辅助项目管理；MCP开源协议可扩展到游戏专属工具（Unity、Unreal插件）。"
+    },
+    {
+      "title": "Microsoft Maia 200：下一代AI推理芯片",
+      "channel": "Microsoft官方博客",
+      "link": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
+      "valueLabel": "high",
+      "valueReason": "微软自研AI芯片突破，将影响Azure AI服务成本",
+      "content": "微软1月26日发布Maia 200，采用台积电3nm工艺，集成超1400亿晶体管。4位（FP4）性能超10 petaFLOPS，8位（FP8）超5 petaFLOPS，功耗750W。性能价格比现有硬件提升30%，FP4性能是Amazon Trainium的3倍，支持GPT-5.2推理。",
+      "highlights": [
+        "3nm工艺，1400亿+晶体管",
+        "10+ petaFLOPS FP4性能",
+        "性能价格比提升30%，3倍于Trainium",
+        "支持GPT-5.2模型推理"
+      ],
+      "gameAIInsights": "Azure云游戏AI服务成本将下降：NPC实时对话、动态内容生成等云端推理更经济可行。微软第一方游戏可能率先应用。"
+    },
+    {
+      "title": "Meta 2026：个人超级智能与Agentic Commerce",
+      "channel": "TechCrunch / Meta官方",
+      "link": "https://techcrunch.com/2026/01/28/zuckerberg-teases-agentic-commerce-tools-and-major-ai-rollout-in-2026/",
+      "valueLabel": "high",
+      "valueReason": "Agentic Commerce开启AI代理经济时代",
+      "content": "Zuckerberg于1月28日宣布2026年将是「交付个人超级智能的大年」，计划推出Agentic Commerce工具。Google同步发布Universal Commerce Protocol（UCP），联合Shopify、Etsy、Target、Walmart建立开放标准。Google API在2025年12月处理超90万亿token。",
+      "highlights": [
+        "Zuckerberg：2026是「个人超级智能」大年",
+        "Agentic Commerce：AI代理自主购物",
+        "Google UCP开放协议，主流零售商加入",
+        "Google API月处理90万亿token"
+      ],
+      "gameAIInsights": "Agentic Commerce模式可迁移到游戏：AI代理可代玩家进行游戏内购买决策、资源交易。游戏内经济系统需重新设计以适应AI代理参与。"
+    },
+    {
+      "title": "NVIDIA ACE：自主游戏角色革命",
+      "channel": "NVIDIA官方",
+      "link": "https://www.nvidia.com/en-us/geforce/news/nvidia-ace-autonomous-ai-companions-pubg-naraka-bladepoint/",
+      "valueLabel": "high",
+      "valueReason": "游戏AI从脚本驱动向真正智能体的里程碑转变",
+      "content": "NVIDIA在CES上扩展ACE（自主游戏角色）平台，从对话NPC升级为能感知、规划、行动的自主AI角色。新ACE小语言模型可创建自主同伴和自适应敌人。已与PUBG: Battlegrounds、inZOI、Naraka: Bladepoint手机PC版、MIR5等游戏达成合作。",
+      "highlights": [
+        "从对话NPC升级为感知-规划-行动的自主角色",
+        "ACE小语言模型支持端侧运行",
+        "PUBG、Naraka等头部游戏已合作",
+        "自适应敌人AI实时响应玩家战术"
+      ],
+      "gameAIInsights": "这是游戏AI原生应用的里程碑：传统行为树/状态机将被AI Agent替代；PvE体验可接近PvP的不可预测性；游戏设计需考虑AI角色的自主决策空间。"
+    },
+    {
+      "title": "Roblox AI代码：接受率从30%飙升至60%",
+      "channel": "Roblox官方博客",
+      "link": "https://corp.roblox.com/newsroom/2026/01/doubled-ai-code-acceptance-teaching-models-think-like-roblox-engineers",
+      "valueLabel": "medium",
+      "valueReason": "领域专用训练方法对大型游戏公司有参考价值",
+      "content": "Roblox通过在20年内部代码历史上训练领域专用模型，将代码接受率从30%提升至60%以上。同时Valve更新Steam AI披露政策，不再要求开发者披露AI开发工具的使用，但仍需披露AI生成的游戏资产。",
+      "highlights": [
+        "领域专用训练使代码接受率翻倍",
+        "20年代码历史构建训练数据",
+        "Valve放宽AI开发工具披露要求",
+        "上下文感知 > 通用AI建议"
+      ],
+      "gameAIInsights": "大型游戏公司应考虑训练领域专用代码模型。Valve政策变化表明行业对AI开发工具接受度提高。"
+    },
+    {
+      "title": "GPT-5 vs Claude 4.5：前沿模型对比",
+      "channel": "多个技术媒体",
+      "link": "https://www.datastudios.org/post/chatgpt-5-vs-claude-4-1-full-report-and-comparison-of-features-capabilities-pricing-and-more-au",
+      "valueLabel": "medium",
+      "valueReason": "了解前沿模型能力对选型有价值",
+      "content": "GPT-5：40万token上下文窗口、多模态输入、自适应推理模式，三种规格（gpt-5/mini/nano）。Claude 4.5：20万token上下文、混合推理能力。OpenAI自己的研究显示Claude在真实工作任务中击败GPT-5、Gemini和Grok。",
+      "highlights": [
+        "GPT-5：40万token上下文，三种规格",
+        "Claude 4.5：混合推理能力",
+        "Claude在真实任务中击败GPT-5（OpenAI研究）",
+        "自适应推理成为标配"
+      ],
+      "gameAIInsights": "40万token上下文可处理完整游戏剧本、世界观文档。混合推理适合游戏场景：简单NPC对话快速响应，复杂剧情分支深度推理。"
+    }
+  ],
+  "summary": {
+    "keyTrend1": "AI从助手进化为全栈引擎 - Gemini 3.5一次性生成模拟器、Claude内嵌9款生产力工具，AI正从「对话助手」转变为「工作引擎」。游戏开发将迎来范式变革。",
+    "keyTrend2": "游戏AI原生化加速 - NVIDIA ACE让NPC从脚本驱动变为自主智能体，Roblox领域专用模型提升代码效率，Valve放宽AI政策。游戏行业正全面拥抱AI原生开发与设计。"
+  },
+  "generatedAt": "2026-01-30T12:00:00.000Z"
+}
