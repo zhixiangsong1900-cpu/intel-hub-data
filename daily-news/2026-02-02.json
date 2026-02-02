@@ -1,0 +1,491 @@
+{
+  "date": "2026-02-02",
+  "overview": {
+    "totalCount": 30,
+    "highValueCount": 5,
+    "mediumValueCount": 12,
+    "lowValueCount": 13,
+    "valueDistribution": "本期共收录 30 条情报：🔴高价值 5 条 / 🟡中价值 12 条 / 🟢低价值 13 条",
+    "filterLogic": "",
+    "valueJudgment": "本期重点信号：《超自然行动组》千万DAU运营模式值得关注，Claude Code使用技巧对AI工具链优化有直接价值，AI Agent的Token消耗控制策略可指导项目成本管理，二合+Coin Master混合玩法测试或成新趋势。"
+  },
+  "formFactor": [
+    {
+      "title": "一年千万DAU，这款微恐产品跑通了长期增长路径",
+      "link": "https://mp.weixin.qq.com/s/zbLvD_3N9k3gW2Nz6lka-Q",
+      "valueLabel": "high",
+      "valueReason": "《超自然行动组》作为千万DAU级产品，其社交裂变、明星联动、长线运营策略对产品运营有重大参考价值",
+      "content": "《超自然行动组》在一周年之际官宣DAU突破1000万大关，同时再登畅销榜Top4。产品采用微恐+社交的新鲜组合，通过四人组队摸金玩法冲淡恐怖感，形成玩家自发的整活欢乐氛围，实现裂变传播。产品与赵露思的明星联动极具创意：不仅设计专属皮肤和新手引导陪伴，还让明星参与游戏设计，形成品牌、游戏性和玩家情感的深度融合。周年庆版本推出新武器扇、伞，新地图秦陵龙宫支持多人合作机关互动。AI假人上线一周参与对局超2500万次，为I人E人都提供适配的游戏节奏。",
+      "highlights": [
+        {
+          "label": "社交裂变",
+          "text": "四人组队摸金冲淡恐怖感，玩家整活氛围促进自发传播，抖音话题播放超200亿次"
+        },
+        {
+          "label": "明星联动创新",
+          "text": "赵露思深度参与游戏设计，专属皮肤+新手陪伴+活动联动，微博超话登顶"
+        },
+        {
+          "label": "AI技术落地",
+          "text": "大模型驱动的AI假人支持聊天、摸金甚至叛变，上线一周参与对局超2500万次"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "社交玩法研究",
+          "text": "分析其四人组队社交设计的具体机制，提炼可复用的社交裂变模式"
+        },
+        {
+          "label": "明星联动模式",
+          "text": "研究明星深度参与游戏设计的联动模式，评估我们产品的应用可能性"
+        },
+        {
+          "label": "AI假人评估",
+          "text": "评估大模型AI假人在我们产品中的技术可行性和预期效果"
+        }
+      ]
+    },
+    {
+      "title": "111%新品肉鸽+4人PVP混战复测，暗藏大DAU赛道布局野心",
+      "link": "https://mp.weixin.qq.com/s/-j6DXvhY8LkGVb7DGbMzyw",
+      "valueLabel": "medium",
+      "valueReason": "111%作为头部超休闲厂商尝试肉鸽+4人PVP混合玩法，可能代表大DAU赛道的新探索方向",
+      "content": "111%推出新品肉鸽+4人PVP混战产品进行复测，该产品尝试将肉鸽玩法与多人PVP竞技相结合，瞄准大DAU赛道。这种玩法混合可能为轻度玩法注入更强的竞技对抗性和社交属性，值得关注后续测试数据表现。",
+      "highlights": [
+        {
+          "label": "玩法创新",
+          "text": "肉鸽+4人PVP混合设计，尝试为轻度玩法增加竞技深度"
+        },
+        {
+          "label": "赛道探索",
+          "text": "111%作为头部厂商布局大DAU赛道，产品方向有参考意义"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "跟踪测试",
+          "text": "持续关注该产品的公测数据表现，评估混合玩法的市场验证结果"
+        }
+      ]
+    },
+    {
+      "title": "二合+Coin Master？匠心新品Love in Fragments测试",
+      "link": "https://mp.weixin.qq.com/s/5cyoxNJAO6eaovRQ7IN1rA",
+      "valueLabel": "high",
+      "valueReason": "北京匠心尝试二合Merge+Coin Master的创新混合玩法，若验证成功将开辟新的产品方向",
+      "content": "北京匠心旗下BeheFun Games推出新品Love in Fragments: Merge Magic，在英国和墨西哥进行测试。该产品尝试将二合Merge玩法与Coin Master机制相结合。相比之前多家厂商尝试但效果不佳的三消+CM组合，二合的节奏相对更适合中断，与CM的体力消耗节奏更匹配。如果这套组合能跑通，将为混合玩法提供新的可能性。但产品面临的挑战是二合品类的高CPI（40-60美金），需要通过提升留存和LTV来平衡获客成本。匠心此前的Top Tycoon和My Home My World都是成功案例，团队在CM-like品类有丰富经验。",
+      "highlights": [
+        {
+          "label": "玩法创新",
+          "text": "二合+CM的混合玩法相比三消+CM更可能成功，节奏匹配度更高"
+        },
+        {
+          "label": "团队背景",
+          "text": "北京匠心在CM-like品类经验丰富，Top Tycoon成绩优秀"
+        },
+        {
+          "label": "商业挑战",
+          "text": "二合品类CPI高达40-60美金，需要通过高留存高LTV来平衡"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "机制分析",
+          "text": "深入研究二合+CM的融合机制设计，分析如何解决节奏打断问题"
+        },
+        {
+          "label": "数据跟踪",
+          "text": "持续关注该产品在英国墨西哥的测试数据，评估市场验证结果"
+        },
+        {
+          "label": "成本模型",
+          "text": "分析高CPI品类如何通过LTV提升实现盈利的商业模型"
+        }
+      ]
+    }
+  ],
+  "socialEvergreen": [
+    {
+      "title": "破千万日活，这家公司挤进了腾讯网易的朋友圈",
+      "link": "https://mp.weixin.qq.com/s/pQD74Y_3CrAy5LVr25Y_1Q",
+      "valueLabel": "medium",
+      "valueReason": "巨人网络凭借《超自然行动组》跻身千万DAU俱乐部，其成长路径对中型厂商有参考价值",
+      "content": "巨人网络凭借《超自然行动组》突破千万DAU，成功挤进腾讯网易的头部游戏朋友圈。产品从静默入场到口碑发酵，展示了内容驱动增长的可能性。文章分析了巨人如何通过差异化品类选择和精细化运营实现突破，对中型游戏厂商的战略规划有借鉴意义。",
+      "highlights": [
+        {
+          "label": "增长路径",
+          "text": "静默入场到千万DAU，验证了内容驱动增长模式的可行性"
+        },
+        {
+          "label": "战略参考",
+          "text": "中型厂商通过差异化品类突围的成功案例"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "案例研究",
+          "text": "分析巨人在《超自然》项目上的资源配置和运营策略"
+        }
+      ]
+    },
+    {
+      "title": "2026年1月最挣钱的SLG：TOP20贡献超60亿流水，三战暴涨7成",
+      "link": "https://mp.weixin.qq.com/s/tcXA9bsX9eRfSHIaPHaBLA",
+      "valueLabel": "medium",
+      "valueReason": "SLG品类数据报告，三战国内海外双线增长，反映品类竞争格局变化",
+      "content": "2026年1月SLG品类TOP20产品贡献超60亿流水。《三国志战略版》表现突出，国内海外均暴涨7成，成为本期最大亮点。数据显示SLG品类仍保持强劲吸金能力，但头部竞争格局正在发生变化，新晋产品开始挑战老牌霸主地位。",
+      "highlights": [
+        {
+          "label": "品类数据",
+          "text": "SLG品类TOP20月流水超60亿，头部吸金能力依然强劲"
+        },
+        {
+          "label": "格局变化",
+          "text": "三战双线暴涨7成，品类竞争格局正在重塑"
+        }
+      ],
+      "suggestions": []
+    },
+    {
+      "title": "2026年A股游戏新惊喜！超自然行动组官宣千万DAU解锁新纪录",
+      "link": "https://mp.weixin.qq.com/s/43g0KmqDUQKW4vxi4KBjVw",
+      "valueLabel": "low",
+      "valueReason": "与其他超自然行动组报道内容重复，主要是资本市场视角的解读",
+      "content": "GameLook从A股投资视角分析《超自然行动组》千万DAU对巨人网络的影响，产品表现将巨人股价重新拉回千亿级别。文章偏向资本市场分析，对产品设计层面的新增信息有限。",
+      "highlights": [
+        {
+          "label": "核心信息",
+          "text": "待补充详细分析"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "关注方向",
+          "text": "持续跟踪相关动态"
+        }
+      ]
+    }
+  ],
+  "techStack": [
+    {
+      "title": "Claude Code之父分享10大使用技巧",
+      "link": "https://mp.weixin.qq.com/s/qlUkcSPxklsSLBKmJtOZEw",
+      "valueLabel": "high",
+      "valueReason": "Claude Code创造者Boris Cherny分享的内部使用技巧，对AI辅助开发效率提升有直接应用价值",
+      "content": "Claude Code创造者Boris Cherny分享了团队内部使用Claude Code的10大技巧：1.并行Worktree是第一生产力，同时开3-5个git worktree跑独立session；2.复杂任务先进Plan Mode规划再执行；3.CLAUDE.md是最重要资产，每次纠正后让Claude更新；4.打造Skills库，重复操作变成slash command；5.让Claude自己修Bug，开启Slack MCP直接说fix；6.提升Prompt水平，让Claude考你、逼它重做、写详细spec；7.终端环境配置，用Ghostty显示context用量；8.善用Subagent分解任务；9.用Claude做数据分析，6个月没写SQL；10.用Claude学习，开启Explanatory模式。这些技巧可直接应用于团队的AI工具链优化。",
+      "highlights": [
+        {
+          "label": "并行效率",
+          "text": "Worktree并行多session是团队排名第一的提效技巧，可3-5倍提升产出"
+        },
+        {
+          "label": "知识沉淀",
+          "text": "CLAUDE.md作为AI记忆文件持续迭代，降低重复错误率"
+        },
+        {
+          "label": "自动化思路",
+          "text": "日频操作变成skill/command，减少人工干预"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "工具链优化",
+          "text": "评估团队引入git worktree并行开发模式的可行性"
+        },
+        {
+          "label": "知识库建设",
+          "text": "建立团队级CLAUDE.md规范，沉淀AI使用最佳实践"
+        },
+        {
+          "label": "Skills开发",
+          "text": "识别团队高频操作，开发对应的自动化Skills"
+        }
+      ]
+    },
+    {
+      "title": "1.8亿token，Clawdbot是这么吞掉的",
+      "link": "https://mp.weixin.qq.com/s/56MWxZiNeWEPllAUme2LCQ",
+      "valueLabel": "high",
+      "valueReason": "深度解析AI Agent高Token消耗的技术根因和优化策略，对控制AI项目成本有重要参考价值",
+      "content": "文章从代码层面深度拆解Clawdbot（OpenClaw）高Token消耗的技术根因。四大Token黑洞：1.系统提示词固定开销约14000 tokens/次；2.ReAct循环迭代累积呈二次方增长；3.工具调用结果的上下文膨胀，如网页抓取可达20000 tokens；4.反射循环惩罚机制，7轮反射消耗是无反射的13.4倍。优化策略包括：启用Prompt Caching可削减90%成本；Lobster工作流引擎绕过LLM编排节省60-95%；上下文压缩策略减少70-90%历史tokens；工具集精简可减少50-60%系统提示词；模型路由策略Opus转Sonnet可节省80%成本。",
+      "highlights": [
+        {
+          "label": "成本根因",
+          "text": "ReAct循环二次方增长+工具结果膨胀是Token暴增的核心原因"
+        },
+        {
+          "label": "优化策略",
+          "text": "Prompt Caching+工作流引擎+上下文压缩组合可削减90%+成本"
+        },
+        {
+          "label": "架构启示",
+          "text": "确定性工作流替代LLM编排是降本的关键思路"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "成本监控",
+          "text": "建立AI项目的Token消耗监控和预警机制"
+        },
+        {
+          "label": "架构优化",
+          "text": "评估项目中可用确定性工作流替代LLM编排的场景"
+        },
+        {
+          "label": "缓存策略",
+          "text": "启用Prompt Caching，评估对项目成本的实际影响"
+        }
+      ]
+    },
+    {
+      "title": "PaddleOCR-VL-1.5难样本数据挖掘策略及PP-DocLayoutV3布局检测架构",
+      "link": "https://mp.weixin.qq.com/s/I3kZVuc_LIHsHK6-honLCg",
+      "valueLabel": "medium",
+      "valueReason": "PaddleOCR-VL-1.5的技术报告分析，难样本挖掘策略对AI训练数据优化有参考价值",
+      "content": "文章解析PaddleOCR-VL-1.5技术报告的关键创新。布局检测升级为PP-DocLayoutV3，支持四边形/多边形边界框标注，集成RT-DETR骨干网络，在单次前向传播中完成像素级分割、多顶点定位和阅读顺序预测。数据策略采用UACS（不确定性感知聚类采样）进行难样本挖掘：通过CLIP特征聚类保证多样性，多轮随机解码推理计算不确定性分数，加权采样优先选择高难度样本。布局分析数据集包含38k样本覆盖9类场景25类标签。",
+      "highlights": [
+        {
+          "label": "架构创新",
+          "text": "单次前向传播完成分割+定位+排序，效率显著提升"
+        },
+        {
+          "label": "数据策略",
+          "text": "UACS难样本挖掘通过不确定性评估优先采样高难度样本"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "技术跟踪",
+          "text": "关注PP-DocLayoutV3在文档处理场景的应用效果"
+        }
+      ]
+    }
+  ],
+  "aiNews": [
+    {
+      "title": "AI是人的延伸，人是AI的尺度",
+      "link": "https://mp.weixin.qq.com/s/PdZs8Lu6MGfCvO4gr6s8dg",
+      "valueLabel": "medium",
+      "valueReason": "腾讯研究院关于AI与人类关系的深度思考，提供了AI价值对齐的理论框架",
+      "summary": "腾讯研究院司晓和王焕超探讨AI作为人类能力延伸的本质。AI正从肌肉延伸转向思维认知的外化，创作重心从技法转向想法。文章提出AI是向内审视的媒介，需要以人类良知和伦理作为延伸的锚点，强调人性是最后的壁垒。"
+    },
+    {
+      "title": "腾讯用10亿红包，再赌一次AI时代的社交入口",
+      "link": "https://mp.weixin.qq.com/s/rbw8iPIx79vM8TUkLLldoA",
+      "valueLabel": "medium",
+      "valueReason": "腾讯元宝派产品的深度测评，反映大厂在AI社交赛道的战略布局",
+      "summary": "文章实测腾讯元宝派产品，分析腾讯如何通过10亿红包补贴押注AI时代的社交入口。产品定位于AI助手+社交的融合形态，试图在AI浪潮中巩固社交领域的护城河。"
+    },
+    {
+      "title": "大模型经典著作分享《大语言模型基础与前沿》",
+      "link": "https://mp.weixin.qq.com/s/rIARgPYGK7pGKGbN-19UoA",
+      "valueLabel": "low",
+      "valueReason": "书籍推荐类内容，无直接可落地的技术信息",
+      "summary": "老刘说NLP推荐熊涛博士的《大语言模型基础与前沿》，涵盖语言模型架构、Transformer、提示工程、稀疏专家模型等内容。"
+    },
+    {
+      "title": "Sebastian和Nathan在Lex Fridman播客深度解读AI现状",
+      "link": "https://mp.weixin.qq.com/s/W4Oec49yU8KslLDinbnh3g",
+      "valueLabel": "medium",
+      "valueReason": "AI领域重要人物的深度访谈，涉及中美竞争、模型对比、AGI时间线等话题",
+      "summary": "Lex Fridman播客邀请Sebastian和Nathan深度讨论AI现状，话题涵盖中美AI竞争格局、主流模型能力对比、规模定律发展趋势以及AGI实现时间线预测等核心议题。"
+    },
+    {
+      "title": "我如何用Codex在5天内找回丢失的源代码",
+      "link": "https://mp.weixin.qq.com/s/y0jpwZp4Dn8lceIgx2gOxA",
+      "valueLabel": "medium",
+      "valueReason": "Codex实际应用案例，展示AI辅助代码恢复的可能性",
+      "summary": "宝玉AI分享使用OpenAI Codex在5天内恢复丢失源代码的经历，展示了AI辅助开发的另一种应用场景。"
+    }
+  ],
+  "otherNews": [
+    {
+      "title": "抽到即升值！原来有这么多游戏公司年会送了金子",
+      "link": "https://mp.weixin.qq.com/s/lG2KdQthql3Gs5fxyIiz3Q",
+      "valueLabel": "low",
+      "valueReason": "年会福利类娱乐资讯，无产品设计参考价值",
+      "content": "游戏智库盘点各游戏公司年会送金子的福利情况，属于行业趣闻类内容。"
+    },
+    {
+      "title": "销量突破百万，神奇的波兰人居然打造了一款老滚代餐",
+      "link": "https://mp.weixin.qq.com/s/oiI0bPz3TwZKiepWradbNg",
+      "valueLabel": "low",
+      "valueReason": "PC/主机游戏报道，与移动端竖版轻量化方向关联度低",
+      "content": "GameRes报道波兰开发团队打造的一款销量突破百万的RPG产品，定位为上古卷轴代餐，PC端产品。"
+    },
+    {
+      "title": "玩法类游戏创新的案例分析——《永远的蔚蓝星球》",
+      "link": "https://mp.weixin.qq.com/s/sC-dT9HEMWpZyYoK7ikeKw",
+      "valueLabel": "medium",
+      "valueReason": "游戏玩法创新案例分析，对产品设计有一定参考价值",
+      "content": "GameRes对《永远的蔚蓝星球》的玩法创新进行案例分析，探讨该产品在机制设计上的创新点。"
+    },
+    {
+      "title": "奥星热浪曝光 / 马化腾盛赞IEG / 米哈游5年创税150亿 / 金庸群侠传新PV",
+      "link": "https://mp.weixin.qq.com/s/PE3PLmY1nRx48ANtcb56_A",
+      "valueLabel": "low",
+      "valueReason": "行业快讯合集，信息碎片化，无深度分析",
+      "content": "游戏矩阵的行业快讯合集，包含奥星热浪新作曝光、马化腾对IEG事业群的表态、米哈游纳税数据以及金庸群侠传新PV等多条简讯。"
+    },
+    {
+      "title": "米哈游也玩起抽象了：首个少女偶像团体正式出道",
+      "link": "https://mp.weixin.qq.com/s/331vyNYcIoZdKoQY0fHBpg",
+      "valueLabel": "low",
+      "valueReason": "米哈游IP衍生运营动态，与游戏产品设计关联度低",
+      "content": "游戏日报报道米哈游推出首个少女偶像团体，属于IP衍生运营层面的内容。"
+    },
+    {
+      "title": "员工人均发5g黄金，3天2破世界纪录：这家国民游戏大厂震惊游戏圈",
+      "link": "https://mp.weixin.qq.com/s/uk3zoh5YDjbt5EoHQzt-IQ",
+      "valueLabel": "low",
+      "valueReason": "巨人网络年会福利和业绩报道，与产品设计无关",
+      "content": "游戏那点事报道巨人网络年会人均发5g黄金的福利，以及《超自然行动组》3天内2次打破世界纪录的成绩。"
+    },
+    {
+      "title": "中国互联网出海一周头条",
+      "link": "https://mp.weixin.qq.com/s/WMUkB6r31-ps0q9b5wfyUA",
+      "valueLabel": "low",
+      "valueReason": "出海行业周报，信息面广但深度不足",
+      "content": "白鲸出海的周报合集，汇总中国互联网出海领域的一周重要动态。"
+    },
+    {
+      "title": "2月2日—2月8日共有34款游戏开测",
+      "link": "https://mp.weixin.qq.com/s/Yv5blDRFsNlKWkiKfp3Utg",
+      "valueLabel": "low",
+      "valueReason": "游戏开测日历类资讯，无分析深度",
+      "content": "GameRes统计2月2日至2月8日共有34款游戏开测，属于行业日历类信息。"
+    },
+    {
+      "title": "米哈游纳税150亿、终末地iOS三日收8000万、世纪华通净利增475%",
+      "link": "https://mp.weixin.qq.com/s/nu6-OdXBG31i7JICL0_VqQ",
+      "valueLabel": "low",
+      "valueReason": "行业财务数据周报，信息价值有限",
+      "content": "游戏陀螺周报，汇总米哈游5年纳税150亿、终末地iOS三日流水8000万、世纪华通净利增长等财务数据。"
+    },
+    {
+      "title": "看过豆包教人做事后，我才知道什么是人工智障",
+      "link": "https://mp.weixin.qq.com/s/kQZYVXV0GQU_yPEe7ax5wg",
+      "valueLabel": "low",
+      "valueReason": "AI产品吐槽类娱乐内容，无技术参考价值",
+      "content": "3DM游戏网吐槽豆包AI产品的使用体验问题，属于娱乐向内容。"
+    },
+    {
+      "title": "仁王3制作团队专访：以动制静",
+      "link": "https://mp.weixin.qq.com/s/PaLTh7wyL3CxhPx-oafiTA",
+      "valueLabel": "low",
+      "valueReason": "主机游戏开发团队专访，与移动端产品方向关联度低",
+      "content": "3DM游戏网对《仁王3》制作团队的专访，讨论游戏设计理念。"
+    },
+    {
+      "title": "CES 2026结束后，我去英伟达看了看未来的游戏该是什么样子",
+      "link": "https://mp.weixin.qq.com/s/5L7dgoHwbXJGenQDvVyEhQ",
+      "valueLabel": "medium",
+      "valueReason": "英伟达关于游戏未来的技术展望，有一定前瞻性参考价值",
+      "content": "3DM游戏网记者参观CES 2026英伟达展区后的报道，介绍英伟达对未来游戏形态的技术展望。"
+    },
+    {
+      "title": "我深度体验了一下今年荤段子含量最高的解谜游戏",
+      "link": "https://mp.weixin.qq.com/s/UhUNTWs1trs38J8s-TJT9A",
+      "valueLabel": "low",
+      "valueReason": "游戏体验类娱乐内容，无产品设计参考价值",
+      "content": "游戏研究社的游戏体验分享，娱乐向内容。"
+    },
+    {
+      "title": "白夜谈：当容貌焦虑成了肉体恐怖片的财富密码",
+      "link": "https://mp.weixin.qq.com/s/S2c_fvIXZZ80X_6nf8r_Pg",
+      "valueLabel": "low",
+      "valueReason": "文化评论类内容，与游戏产品设计无关",
+      "content": "游戏研究社的文化评论栏目，讨论容貌焦虑与肉体恐怖题材的关系。"
+    },
+    {
+      "title": "分享|新世纪|东京爱情故事MV和短片",
+      "link": "https://mp.weixin.qq.com/s/a4UcF4UMfZr9h4fYgMSDAg",
+      "valueLabel": "low",
+      "valueReason": "内容分享类，与游戏行业无关",
+      "content": "Web3天空之城分享新世纪和东京爱情故事相关的MV和短片内容。"
+    },
+    {
+      "title": "黄一孟直播屡次翻车，游戏行业还赞要变天了",
+      "link": "https://mp.weixin.qq.com/s/_oICTKP1_6bmkDBuV9rC5A",
+      "valueLabel": "low",
+      "valueReason": "行业人物评论，信息价值有限",
+      "content": "游戏新知评论心动网络黄一孟的直播风格以及游戏行业的反应。"
+    }
+  ],
+  "actionItems": [
+    {
+      "priority": "P0",
+      "action": "研究《超自然行动组》社交裂变机制和AI假人设计",
+      "owner": "产品/技术",
+      "output": "社交玩法设计文档+AI假人技术评估报告"
+    },
+    {
+      "priority": "P0",
+      "action": "建立团队Claude Code使用规范和CLAUDE.md知识库",
+      "owner": "技术",
+      "output": "AI工具链使用规范文档"
+    },
+    {
+      "priority": "P1",
+      "action": "评估AI Agent Token成本控制策略在项目中的应用",
+      "owner": "技术",
+      "output": "Token成本优化方案"
+    },
+    {
+      "priority": "P1",
+      "action": "跟踪二合+CM混合玩法产品的测试数据",
+      "owner": "产品",
+      "output": "竞品跟踪报告"
+    },
+    {
+      "priority": "P2",
+      "action": "关注111%肉鸽+PVP产品的后续表现",
+      "owner": "产品",
+      "output": "品类趋势分析"
+    }
+  ],
+  "evaluation": {
+    "dimensions": [
+      {
+        "name": "形态对齐",
+        "rating": "⭐⭐⭐⭐",
+        "note": "《超自然》的竖版社交设计和二合+CM的创新组合都有直接参考价值"
+      },
+      {
+        "name": "机制对齐",
+        "rating": "⭐⭐⭐⭐",
+        "note": "千万DAU产品的社交裂变和长线运营机制值得深入研究"
+      },
+      {
+        "name": "技术对齐",
+        "rating": "⭐⭐⭐⭐⭐",
+        "note": "Claude Code技巧和Token优化策略可直接落地，AI假人案例有突破性"
+      }
+    ],
+    "summary": "本期情报技术对齐维度价值最高，Claude Code使用技巧和Token优化策略可直接应用；形态和机制维度也有多个高价值案例，《超自然行动组》的综合运营模式和二合+CM的创新尝试都值得关注。建议优先落地AI工具链优化和Token成本控制。"
+  },
+  "sources": [
+    "游戏矩阵 GameMatrix",
+    "AGI Hunt",
+    "PaperAgent",
+    "腾讯研究院",
+    "王董的新游戏",
+    "老刘说NLP",
+    "游戏日报",
+    "GameRes游资网",
+    "游戏智库",
+    "柠檬游戏说",
+    "十字路口Crossing",
+    "宝玉AI",
+    "游讯先锋",
+    "游戏那点事Gamez",
+    "白鲸出海",
+    "游戏陀螺",
+    "3DM游戏网",
+    "游戏研究社",
+    "GameLook",
+    "游戏新知",
+    "Web3天空之城"
+  ],
+  "generatedAt": "2026-02-02T11:20:41.313Z"
+}
