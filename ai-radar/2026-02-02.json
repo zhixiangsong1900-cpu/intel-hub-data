@@ -1,0 +1,108 @@
+{
+  "date": "2026-02-02",
+  "videos": [
+    {
+      "title": "Figure AI 发布 Helix 02：全身自主人形机器人",
+      "channel": "Figure AI",
+      "link": "https://www.figure.ai/news/helix-02",
+      "valueLabel": "high",
+      "valueReason": "人形机器人领域重大突破，单一神经网络替代10万行代码，解决长期存在的移动操作问题",
+      "content": "Figure AI 于1月27日发布 Helix 02，这是人形机器人领域的重大突破。该系统首次实现了单一神经网络控制全身运动，从视觉、触觉、本体感觉等传感器输入直接生成动作，完成了4分钟的洗碗机装卸任务，全程无人工干预。系统采用'System 0/1/2'三层架构，分别处理1kHz级平衡协调、200Hz级感知-动作转换和高层目标推理。最重要的是，一个神经网络替代了109,504行手写C++代码，解决了机器人领域长期存在的移动操作问题。",
+      "highlights": [
+        "单一神经网络控制全身运动，替代10万行手写代码",
+        "能够执行精细操作：提取药片、精确注射、分拣小物体",
+        "使用超过1000小时人类运动数据训练"
+      ],
+      "gameAIInsights": "端到端神经网络控制可应用于游戏中的人形NPC动作生成，实现更自然的物理交互和环境适应性行为。"
+    },
+    {
+      "title": "OpenAI 产品线大更新：模型退役与新产品发布",
+      "channel": "OpenAI",
+      "link": "https://openai.com/news/product-releases/",
+      "valueLabel": "high",
+      "valueReason": "OpenAI产品线重大调整，GPT-4系列退役，新增健康、记忆等重要功能",
+      "content": "OpenAI 近期发布多项重要更新。2月13日将退役GPT-4o、GPT-4.1、GPT-4.1 mini和o4-mini。新产品包括：Prism（1月27日）、ChatGPT Go全球发布（1月16日）、ChatGPT Health可连接医疗记录（1月7日）。GPT-5.2获得人格系统提示更新，对话更自然。1月30日改进了视觉响应，支持一览式视觉和高亮显示。ChatGPT语音搜索能力增强，新增年龄预测模型和记忆功能改进。",
+      "highlights": [
+        "GPT-4系列模型将于2月13日退役，标志着产品线迭代加速",
+        "ChatGPT Health 开创AI健康数据整合先河",
+        "GPT-5.2 人格系统让AI对话更加自然"
+      ],
+      "gameAIInsights": "GPT-5.2的人格系统更新可直接应用于游戏NPC对话设计，让AI角色更具个性和情感表达。"
+    },
+    {
+      "title": "Claude Code 2.1.27：AI编程助手持续进化",
+      "channel": "Anthropic",
+      "link": "https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously",
+      "valueLabel": "high",
+      "valueReason": "Claude Code持续快速迭代，GitHub工作流深度集成，是AI编程工具的重要进展",
+      "content": "Anthropic 于1月31日发布 Claude Code 2.1.27。新版本增加工具调用调试日志、--from-pr标志可恢复与特定GitHub PR关联的会话、通过gh pr create自动关联会话到PR。修复了权限系统以尊重内容级别的ask优先于工具级别的allow。Windows bash执行和控制台窗口问题已修复，VSCode OAuth令牌过期问题已解决，新增Claude in Chrome VSCode集成。",
+      "highlights": [
+        "GitHub PR工作流深度集成，自动关联会话",
+        "工具调用调试日志提升开发体验",
+        "Claude in Chrome VSCode集成扩展使用场景"
+      ],
+      "gameAIInsights": "游戏开发者可利用Claude Code的PR集成能力加速游戏代码迭代，AI辅助调试和代码审查。"
+    },
+    {
+      "title": "GitHub Copilot Agent Mode：自主多步骤编程",
+      "channel": "GitHub",
+      "link": "https://code.visualstudio.com/blogs/2025/02/24/introducing-copilot-agent-mode",
+      "valueLabel": "high",
+      "valueReason": "AI编程从辅助走向自主，标志着软件开发范式重大转变",
+      "content": "GitHub Copilot推出Agent模式，这是AI辅助编程的重大进化。Copilot Agent可以自主分析代码库、提出文件修改建议、运行终端命令和测试、监控输出并自动迭代修正直到任务完成。支持从零创建应用、跨文件重构、编写测试、将遗留代码迁移到现代框架。目前已有约85%的开发者定期使用AI编程工具，标志着AI编程成为行业标准实践。",
+      "highlights": [
+        "自主完成多步骤编程任务，包括测试和迭代修正",
+        "支持遗留代码现代化迁移",
+        "85%开发者已采用AI编程工具"
+      ],
+      "gameAIInsights": "游戏工作室可利用Agent模式加速游戏逻辑开发，AI自主处理繁琐的跨文件重构和测试用例编写。"
+    },
+    {
+      "title": "NVIDIA ACE：游戏AI NPC从对话到自主行动",
+      "channel": "NVIDIA",
+      "link": "https://www.nvidia.com/en-us/geforce/news/nvidia-ace-autonomous-ai-companions-pubg-naraka-bladepoint/",
+      "valueLabel": "high",
+      "valueReason": "游戏AI NPC技术进入产业化阶段，与多款大作达成合作",
+      "content": "NVIDIA ACE在CES 2025大幅扩展，从对话式NPC进化为能够感知、规划和行动的自主角色。新的小语言模型(SLM)实现了人类级别频率的真实决策，具备视觉和音频感知的多模态能力。NVIDIA正与主要开发商合作，将ACE集成到《绝地求生》《inZOI》《永劫无间》《MIR5》等游戏中。2月发布了新的In-Game Inferencing SDK帮助开发者集成ACE AI角色。54%的游戏工作室计划采用AI NPC，99%玩家认为AI NPC能改善游戏体验。",
+      "highlights": [
+        "从对话式NPC进化为自主感知-规划-行动角色",
+        "已与《绝地求生》《永劫无间》等大作达成合作",
+        "99%玩家认为AI NPC改善游戏体验"
+      ],
+      "gameAIInsights": "直接应用于游戏开发的核心技术，NVIDIA ACE正在定义下一代游戏AI NPC标准。In-Game Inferencing SDK降低了集成门槛。"
+    },
+    {
+      "title": "Inworld Unreal AI Runtime：游戏AI开发统一工具包",
+      "channel": "Inworld",
+      "link": "https://inworld.ai/blog/introducing-unreal-ai-runtime-sdk",
+      "valueLabel": "medium",
+      "valueReason": "专为游戏开发设计的AI集成方案，降低中小团队使用AI NPC的门槛",
+      "content": "Inworld于2025年10月推出Unreal AI Runtime SDK，这是首个为游戏开发者设计的统一交互式AI工具包。提供基础AI构建块（语音转文字、文字转语音、LLM），通过单一API访问数百个来自不同供应商的模型，配备可视化图形编辑器和预构建模板，以及成本管理工具。Unity版本正在早期测试中。育碧的NEO NPC原型已使用Inworld引擎展示了高级推理、认知和实时环境感知能力。",
+      "highlights": [
+        "单一API接入数百个AI模型",
+        "可视化图形编辑器降低使用门槛",
+        "育碧NEO NPC已采用Inworld引擎"
+      ],
+      "gameAIInsights": "专为游戏开发设计的AI集成方案，通过可视化工具和成本管理让中小团队也能使用AI NPC技术。"
+    },
+    {
+      "title": "Lex Fridman播客：Nathan Lambert与Sebastian Raschka深度解读AI现状",
+      "channel": "Lex Fridman",
+      "link": "https://lexfridman.com/podcast/",
+      "valueLabel": "high",
+      "valueReason": "2026年AI前沿全景深度解读，涵盖技术、产业、地缘政治多维视角",
+      "content": "Lex Fridman最新一期播客邀请Nathan Lambert和Sebastian Raschka深入探讨2026年AI前沿话题：LLM发展现状、编程AI、扩展定律、中国AI竞争格局、AI Agent、GPU计算资源、AGI时间线等核心议题。这是了解当前AI技术全景和未来走向的重要参考，涵盖了从技术到产业到地缘政治的多维视角。",
+      "highlights": [
+        "全面覆盖2026年AI技术前沿话题",
+        "中美AI竞争格局深度分析",
+        "AGI时间线和扩展定律最新观点"
+      ],
+      "gameAIInsights": "了解AI Agent发展趋势对游戏AI设计有重要参考价值，扩展定律和计算资源讨论影响游戏AI的可行性边界。"
+    }
+  ],
+  "summary": {
+    "keyTrend1": "端到端AI正在替代传统工程代码：Figure AI的Helix 02用单一神经网络替代10万行C++代码，GitHub Copilot Agent实现自主多步骤编程，都表明AI正从'辅助'走向'主导'。",
+    "keyTrend2": "游戏AI NPC进入产业化阶段：NVIDIA ACE与大作达成合作、Inworld推出统一SDK、54%工作室计划采用AI NPC，游戏AI从技术探索进入规模化落地。"
+  },
+  "generatedAt": "2026-02-02T12:00:00.000Z"
+}
