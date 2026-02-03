@@ -1,0 +1,464 @@
+{
+  "date": "2026-02-03",
+  "overview": {
+    "totalCount": 30,
+    "highValueCount": 7,
+    "mediumValueCount": 13,
+    "lowValueCount": 10,
+    "valueDistribution": "本期共收录 30 条情报：🔴高价值 7 条 / 🟡中价值 13 条 / 🟢低价值 10 条",
+    "filterLogic": "",
+    "valueJudgment": "本期重点信号：1）谷歌Genie 3引发游戏公司股价下跌，AI实时生成游戏内容的技术突破值得高度关注；2）借花小游戏凭借送真花营销创新冲上美国游戏总榜Top 4，线下实物奖励获客模式验证成功；3）方块解谜赛道头部产品日活达7000万，第三代产品内购收入持续增长；4）海艺互娱SeaVerse平台实现一句话生成可运行游戏，AI原生游戏创作工具进入新阶段。"
+  },
+  "formFactor": [
+    {
+      "title": "借花出海，小游戏冲上美国游戏总榜",
+      "link": "https://mp.weixin.qq.com/s/NUkjdKc9fLHwKGWBcXarcg",
+      "valueLabel": "high",
+      "valueReason": "小游戏出海成功案例，送真花营销创新直接验证了轻量化竖版产品的海外市场空间，线下实物奖励获客模式可复用",
+      "content": "厦门摩多科技旗下《我的花园世界》（My Garden Tale）2月1日在海外上线后一鸣惊人，冲进美国iOS手游下载榜Top 4、总榜Top 17。这款国风模拟经营小游戏在国内微信端长期稳居畅销榜Top 10，核心玩法是培育花苗、采摘花朵完成订单。其最大卖点是种花赢真花活动——玩家采摘花朵时有概率获得花卉卡，填入地址后厂商会寄送真花。北美本地送花成本约10美元起，而模拟类游戏CPI已达3.75美元，控制好中奖概率后获客成本可能比正常买量更低。预注册期间高概率送花活动配合用户UGC传播激励（拍照发帖得30美元亚马逊礼品卡），成功实现冷启动冲榜。",
+      "highlights": [
+        {
+          "label": "营销创新",
+          "text": "送真花线下实物奖励打破虚拟游戏边界，获客成本可能低于传统买量"
+        },
+        {
+          "label": "数据验证",
+          "text": "美国iOS手游下载榜Top 4，国内微信端长期畅销榜Top 10"
+        },
+        {
+          "label": "病毒传播",
+          "text": "用户拍照发帖得礼品卡机制驱动UGC自然传播"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "模式复用",
+          "text": "评估线下实物奖励在其他品类的可行性，尤其是与核心玩法强关联的实物"
+        },
+        {
+          "label": "成本测算",
+          "text": "建立实物奖励成本 vs CPI对比模型，找到ROI最优的中奖概率"
+        },
+        {
+          "label": "本地化",
+          "text": "该产品未做任何本地化仍有爆发，说明题材足够普适，但长期留存需关注"
+        }
+      ]
+    }
+  ],
+  "socialEvergreen": [
+    {
+      "title": "头部产品坐拥7000万日活、多家大厂跟进：这条赛道为什么一直在悄悄赚钱？",
+      "link": "https://mp.weixin.qq.com/s/y6TcjY5Wq2M4-PJzPNkxbQ",
+      "valueLabel": "high",
+      "valueReason": "方块解谜赛道深度拆解，7000万DAU产品的留存机制和三代演进路径对休闲品类有重要参考价值",
+      "content": "文章系统梳理了方块解谜从《俄罗斯方块》到现代移动市场的演进路径。第一代以《Block Blast》为代表（日活7000万、月活3亿），核心是缩小棋盘+取消时间压力+关卡结构，完全依赖广告变现。第二代以《Color Block Jam》为代表，引入预设关卡设计，每关都是设计好的问题，更容易通过道具内购变现。第三代换主题外壳（疏通交通、解救角色）、给更多工具，内购收入持续增长。文章指出第一代已被做完，第三代仍有创新空间——主题包装可无限重新定义玩家感觉自己在做什么，小规则调整配合主题能带来额外深度。",
+      "highlights": [
+        {
+          "label": "规模验证",
+          "text": "《Block Blast》日活7000万、月活3亿，月安装量长期维持3000万以上"
+        },
+        {
+          "label": "变现演进",
+          "text": "从纯广告（一代）到内购+广告混合（二代）到内购为主（三代）"
+        },
+        {
+          "label": "设计洞察",
+          "text": "预设关卡制造清晰压力点，主题包装驱动玩法微调"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "品类研究",
+          "text": "深入分析《Block Blast》和《Color Block Jam》的关卡设计逻辑"
+        },
+        {
+          "label": "主题创新",
+          "text": "探索第三代方块解谜的新主题方向，结合当前热点IP或场景"
+        },
+        {
+          "label": "变现优化",
+          "text": "参考二代到三代的变现结构升级，评估现有休闲产品的内购空间"
+        }
+      ]
+    },
+    {
+      "title": "分析：去掉抽卡之后，那些自断收入来源的RPG游戏怎么样了？",
+      "link": "https://mp.weixin.qq.com/s/pmnnYCJ1aBhPyPfZmfM-Sw",
+      "valueLabel": "high",
+      "valueReason": "非抽卡商业化模式的市场表现实证研究，变现模型创新参考价值高",
+      "content": "文章分析了去除抽卡机制后RPG游戏的商业化表现。部分产品选择完全放弃抽卡改用买断制或赛季Pass，部分则采用保底机制弱化随机性。从数据看，去抽卡化产品的ARPU普遍下降但用户口碑提升，长期LTV和用户粘性在部分案例中反而优于传统抽卡模式。核心变化是将付费点从角色获取转移到外观定制、便利性功能和内容解锁，对玩法深度和内容产出速度提出更高要求。",
+      "highlights": [
+        {
+          "label": "模式验证",
+          "text": "部分去抽卡产品长期LTV优于传统抽卡模式，用户口碑明显提升"
+        },
+        {
+          "label": "付费迁移",
+          "text": "付费点从角色获取转移到外观、便利性、内容解锁"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "模式评估",
+          "text": "评估现有RPG项目的去抽卡化可行性和收入影响"
+        }
+      ]
+    }
+  ],
+  "techStack": [
+    {
+      "title": "谷歌Genie 3打崩游戏股！1小时500元的AI生成游戏，真能革游戏的命？",
+      "link": "https://mp.weixin.qq.com/s/sxmDepu4qtwZwr93Fx7XoA",
+      "valueLabel": "high",
+      "valueReason": "AI实时生成可玩游戏内容的技术突破，多家游戏公司股价因此下跌，对游戏工业化有颠覆性影响",
+      "content": "谷歌发布Genie 3，这是一款能够实时生成可交互游戏内容的AI模型。与以往AI辅助生成素材不同，Genie 3能直接生成完整的游戏场景和交互逻辑，用户描述需求后即可体验。消息发布后多家游戏公司股价应声下跌，市场担忧AI可能颠覆传统游戏开发模式。目前Genie 3的生成内容在复杂度和精细度上仍有限制，更适合快速原型验证和创意探索，距离商业级游戏还有差距，但技术方向已非常明确。",
+      "highlights": [
+        {
+          "label": "技术突破",
+          "text": "从AI辅助生成素材跃升到实时生成可交互游戏内容"
+        },
+        {
+          "label": "市场反应",
+          "text": "多家游戏公司股价下跌，资本市场对颠覆性影响有明确预期"
+        },
+        {
+          "label": "当前限制",
+          "text": "复杂度和精细度有限，更适合原型验证而非商业级产品"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "技术跟踪",
+          "text": "持续关注Genie 3的技术迭代和开放API进展"
+        },
+        {
+          "label": "场景评估",
+          "text": "评估AI生成内容在UGC玩法、关卡编辑器等场景的应用可能"
+        },
+        {
+          "label": "风险预案",
+          "text": "思考如果AI生成游戏成熟，传统研发模式需要如何转型"
+        }
+      ]
+    },
+    {
+      "title": "谷歌公布的AI生成工具Project Genie，让不少游戏公司的股价下跌了？",
+      "link": "https://mp.weixin.qq.com/s/Q4-dcZiFnFIK8POxNCEnmQ",
+      "valueLabel": "high",
+      "valueReason": "谷歌Genie 3的另一视角报道，强调资本市场对AI颠覆游戏行业的担忧",
+      "content": "游戏研究社角度报道谷歌Genie 3发布后的市场反应。文章指出多家游戏公司股价在消息发布后明显下跌，反映出资本市场对AI可能取代传统游戏开发的担忧。尽管目前AI生成游戏的质量和复杂度仍有限，但技术演进速度惊人，2025年初的AI能力已远超一年前。文章引用行业人士观点：AI不会完全取代游戏开发者，但会显著改变开发流程和团队结构。",
+      "highlights": [
+        {
+          "label": "资本信号",
+          "text": "游戏公司股价下跌反映市场对AI颠覆性的明确预期"
+        },
+        {
+          "label": "技术节奏",
+          "text": "AI能力迭代速度惊人，一年内进步巨大"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "团队规划",
+          "text": "思考AI工具普及后团队结构和技能需求的变化"
+        }
+      ]
+    },
+    {
+      "title": "仅花2年火速偷家，竟成AI全球第一？这家成都游戏公司太恐怖了",
+      "link": "https://mp.weixin.qq.com/s/JUAe8g5qYYQ9eXp0RnaIOQ",
+      "valueLabel": "high",
+      "valueReason": "海艺互娱SeaVerse平台实现一句话生成可运行游戏，AI原生游戏创作工具的实际案例",
+      "content": "海艺互娱推出SeaVerse平台，定义为全球首个AI Native（AI原生）全模态产品创建与部署平台。与以往需要开发者分步使用AI进行策划、美术生成、代码编写的AI辅助模式不同，SeaVerse实现了一句话生成可运行产品的端到端闭环。用户输入如创建一款太空射击游戏这样的自然语言描述，平台内嵌的多Agent系统便能自动调度工具组件，完成从资产生成、逻辑组装到一键部署的全流程。海艺互娱成立不足三年，从8人扩张至近600人，SeaArt平台Web端月活突破3000万，登顶全球AI图片生成榜及AI产品出海总榜。其母公司星合互娱开发的《小小蚁国》研发周期仅6个月，内部已全面采用AI工具进行素材制作，效率提升近10倍。",
+      "highlights": [
+        {
+          "label": "端到端闭环",
+          "text": "一句话生成可运行产品，自动完成资产生成、逻辑组装、一键部署全流程"
+        },
+        {
+          "label": "规模验证",
+          "text": "SeaArt月活3000万，模型调用超5亿次，素材库10亿级"
+        },
+        {
+          "label": "效率提升",
+          "text": "《小小蚁国》研发周期6个月，AI工具使素材制作效率提升10倍"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "工具评估",
+          "text": "试用SeaVerse平台，评估其在快速原型验证场景的实际效果"
+        },
+        {
+          "label": "流程改造",
+          "text": "参考星合互娱的AI工具使用经验，优化内部美术素材制作流程"
+        },
+        {
+          "label": "创意验证",
+          "text": "用AI工具快速验证创意内核，降低前期投入风险"
+        }
+      ]
+    },
+    {
+      "title": "AI社交元年：Moltbook背后的机机交互革命与行业新机遇",
+      "link": "https://mp.weixin.qq.com/s/qfDaAkm72xYy7xIriIbmiw",
+      "valueLabel": "high",
+      "valueReason": "AI社交创新机制，机机交互模式可能代表社交机制的新方向",
+      "content": "Moltbook提出机机交互概念，让用户的AI分身代替真人进行社交互动。不同于传统AI伴侣产品的人机交互，Moltbook让多个用户的AI分身相互交流，形成虚拟社交网络。这种模式解决了社交产品的冷启动问题（AI可以24小时在线互动）、降低了用户社交焦虑（AI代为社交），同时创造了新的内容消费场景（观看AI分身的社交故事）。文章认为2026年可能成为AI社交元年，这一模式在游戏社交系统中有潜在应用空间。",
+      "highlights": [
+        {
+          "label": "模式创新",
+          "text": "机机交互替代人人交互，AI分身代替用户社交"
+        },
+        {
+          "label": "问题解决",
+          "text": "解决冷启动、社交焦虑、内容消费三大痛点"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "机制研究",
+          "text": "研究AI分身在游戏社交系统中的应用可能性"
+        }
+      ]
+    }
+  ],
+  "aiNews": [
+    {
+      "title": "OpenAI 发布新的 Codex 桌面版",
+      "link": "https://mp.weixin.qq.com/s/etCoftZXRu0LDkeaHjel4w",
+      "valueLabel": "medium",
+      "valueReason": "AI编程工具重大更新，图形界面+定时任务+Skills功能对研发效率有直接价值",
+      "summary": "OpenAI发布Codex Desktop App，从命令行升级为图形界面。核心新功能：1）多Agent并行运行，可同时启动多个AI程序员在独立Git分支工作；2）Automations定时任务，能定期扫描CI失败、生成release notes、总结git活动；3）Skills系统，可将团队最佳实践封装为可复用操作卡片。限时对所有用户免费开放两个月，付费用户配额翻倍。"
+    },
+    {
+      "title": "完全取代Claude Code？OpenAI反击来了，推出Codex app",
+      "link": "https://mp.weixin.qq.com/s/_3xwiGmyaZ-WiBKkcyKLfw",
+      "valueLabel": "medium",
+      "valueReason": "OpenAI与Anthropic在AI编程工具领域的竞争态势更新",
+      "summary": "AI寒武纪视角报道Codex桌面版发布。OpenAI明确将其定位为Claude Code的竞品，限时免费策略旨在抢占用户。Claude Code目前在企业客户中领先。"
+    },
+    {
+      "title": "Codex 独立 App 来了",
+      "link": "https://mp.weixin.qq.com/s/_bKy7yd_PLqCCkMVoRnv-g",
+      "valueLabel": "medium",
+      "valueReason": "AGI Hunt对Codex桌面版的技术解读",
+      "summary": "AGI Hunt从技术角度解读Codex桌面版。重点分析了多Agent并行执行机制和Skills系统架构。"
+    },
+    {
+      "title": "张笑宇：我为什么成了坚定的AI降临派",
+      "link": "https://mp.weixin.qq.com/s/KQ_QV4mXkOZA_AugM5-r0A",
+      "valueLabel": "low",
+      "valueReason": "AI观点文章，无直接落地价值",
+      "summary": "腾讯研究院发布的AI观点文章，张笑宇阐述自己对AI发展的看法。"
+    },
+    {
+      "title": "200页pdf，带你搞懂LLM如何工作",
+      "link": "https://mp.weixin.qq.com/s/Gzot-pio-2oFv3RHKwb7kQ",
+      "valueLabel": "medium",
+      "valueReason": "LLM技术原理学习资料",
+      "summary": "PaperAgent分享的LLM工作原理学习资料，200页PDF详细讲解大语言模型技术架构。"
+    },
+    {
+      "title": "Relink：为GraphRAG动态构建证据图",
+      "link": "https://mp.weixin.qq.com/s/9UNCOVT-FvTOTROvDkzrkw",
+      "valueLabel": "medium",
+      "valueReason": "RAG技术迭代",
+      "summary": "PaperAgent介绍的GraphRAG技术新进展，Relink方法可为RAG系统动态构建证据图。"
+    },
+    {
+      "title": "有趣的视觉大模型雕花策略",
+      "link": "https://mp.weixin.qq.com/s/KSx_Gjp8QinL7INZtipixg",
+      "valueLabel": "low",
+      "valueReason": "视觉模型技术细节，与游戏研发关联度低",
+      "summary": "老刘说NLP分享的视觉大模型技术分析。"
+    },
+    {
+      "title": "别跟风买Mac Mini了！国产算力跑OpenClaw",
+      "link": "https://mp.weixin.qq.com/s/qnOnk_Kqa7CQwH71skd-tg",
+      "valueLabel": "low",
+      "valueReason": "硬件推荐，与研发关联度低",
+      "summary": "新智元介绍使用国产算力运行OpenClaw的方案。"
+    },
+    {
+      "title": "永别了，互联网！Anthropic联创爆料",
+      "link": "https://mp.weixin.qq.com/s/WePBVJ54zf4lMxOnGP64kg",
+      "valueLabel": "medium",
+      "valueReason": "Anthropic联创对AI发展的观点",
+      "summary": "新智元报道Anthropic联合创始人对AI发展的观点，认为AI正在改变人类与互联网的关系。"
+    },
+    {
+      "title": "我拥有了超能力！Meta最牛文科生让3个AI互掐",
+      "link": "https://mp.weixin.qq.com/s/FO-LD5vIeDErDlKHyO5-5Q",
+      "valueLabel": "medium",
+      "valueReason": "Multi-Agent应用案例",
+      "summary": "新智元报道Meta员工使用多个AI Agent协作完成技术任务的案例。"
+    },
+    {
+      "title": "腾讯元宝回应/DeepSeek/SpaceX收购xAI",
+      "link": "https://mp.weixin.qq.com/s/gXGJc1DwrOJqaTwk0mMc7Q",
+      "valueLabel": "medium",
+      "valueReason": "AI行业多条动态汇总",
+      "summary": "APPSO汇总多条AI行业动态：腾讯元宝春节红包活动引争议；SpaceX收购xAI，合并估值约8.7万亿元。"
+    },
+    {
+      "title": "当达沃斯还在热议AI未来时，中国AI教育已服务全球5000万",
+      "link": "https://mp.weixin.qq.com/s/fDh9DrYekEuh-_hdeaG9wQ",
+      "valueLabel": "low",
+      "valueReason": "AI教育话题，非游戏相关",
+      "summary": "AI寒武纪报道某中国公司的AI教育产品已服务全球5000万用户。"
+    }
+  ],
+  "otherNews": [
+    {
+      "title": "近期slg和休闲puzzle测试产品汇总",
+      "link": "https://mp.weixin.qq.com/s/P6gCiqOiJ29vJFqK60P2kw",
+      "valueLabel": "medium",
+      "valueReason": "SLG和休闲解谜品类测试产品情报",
+      "content": "王董的新游戏汇总了近期进入测试阶段的SLG和休闲解谜产品，包括各厂商新品的玩法特点和测试数据。"
+    },
+    {
+      "title": "暴雪总监魔兽世界20年精华演讲",
+      "link": "https://mp.weixin.qq.com/s/J0FHICS1TpqlfYxRjZDPMQ",
+      "valueLabel": "medium",
+      "valueReason": "20年长线运营MMO的设计经验分享",
+      "content": "GameLook报道暴雪总监在魔兽世界20周年的演讲精华，核心观点是不存在完美的游戏设计，需要在各种取舍中找到平衡。"
+    },
+    {
+      "title": "30年研发经验开发者：做游戏就像组建乐队",
+      "link": "https://mp.weixin.qq.com/s/nzClGU0-wRPyzMMCYY9tbA",
+      "valueLabel": "low",
+      "valueReason": "一般经验分享，无具体数据支撑",
+      "content": "GameLook分享30年经验开发者的6条经验总结。"
+    },
+    {
+      "title": "调查称：超50%购买主机玩家是高收入人群",
+      "link": "https://mp.weixin.qq.com/s/ql4XIseYZtEStUcl_CmLtw",
+      "valueLabel": "low",
+      "valueReason": "常规市场调研数据",
+      "content": "GameLook报道主机玩家收入调研数据。"
+    },
+    {
+      "title": "六年狂送600多款游戏，Epic商城还经得起玩家白嫖吗",
+      "link": "https://mp.weixin.qq.com/s/grBgmwAiiDzFLmt4zcfAEA",
+      "valueLabel": "low",
+      "valueReason": "平台运营话题，与研发关联度低",
+      "content": "游戏研究社分析Epic商城持续6年送游戏策略的可持续性。"
+    },
+    {
+      "title": "如今的肉鸽游戏，好底子不一定能换来玩家的好评",
+      "link": "https://mp.weixin.qq.com/s/bQSxwEOp4z4hpt4i1sg83A",
+      "valueLabel": "medium",
+      "valueReason": "肉鸽品类的玩法设计与用户预期分析",
+      "content": "游戏研究社分析当前肉鸽游戏市场，指出仅有好的底层玩法不足以获得玩家认可，需要在内容深度、创新和美术方面有差异化表现。"
+    },
+    {
+      "title": "35岁以上的游戏人，不要PUA自己",
+      "link": "https://mp.weixin.qq.com/s/4Wf3z-wCkHl4PhyCVLhQhQ",
+      "valueLabel": "low",
+      "valueReason": "行业人员话题，非产品设计相关",
+      "content": "游戏葡萄发布的行业人员话题文章。"
+    },
+    {
+      "title": "点点互动年会全抽现金？母公司净利润超55亿",
+      "link": "https://mp.weixin.qq.com/s/YgCMloz_FZI9Yvk3b7rKMg",
+      "valueLabel": "medium",
+      "valueReason": "SLG出海头部公司业绩数据",
+      "content": "游戏葡萄报道点点互动母公司三七互娱业绩数据，净利润超55亿元，同比暴涨约400%。"
+    },
+    {
+      "title": "大厂们的春节豪赌：20+新游抢滩2月市场",
+      "link": "https://mp.weixin.qq.com/s/yANlPQU2M4XJw3xUQM4G5Q",
+      "valueLabel": "medium",
+      "valueReason": "2月新游上线情报汇总",
+      "content": "游戏陀螺汇总2月新游上线情况，莉莉丝、心动、三七互娱等大厂领衔，超过20款新游抢滩春节档市场。"
+    },
+    {
+      "title": "12年网易老兵正式单飞，注册新公司杀回游戏江湖",
+      "link": "https://mp.weixin.qq.com/s/DPM2W4fmDQ6g9jQu6oTACg",
+      "valueLabel": "low",
+      "valueReason": "一般人事变动新闻",
+      "content": "游讯先锋报道网易12年老员工离职创业。"
+    },
+    {
+      "title": "抽到即升值！原来有这么多游戏公司年会送了金子",
+      "link": "https://mp.weixin.qq.com/s/lG2KdQthql3Gs5fxyIiz3Q",
+      "valueLabel": "low",
+      "valueReason": "娱乐资讯",
+      "content": "游戏智库盘点各游戏公司年会送黄金的情况。"
+    }
+  ],
+  "actionItems": [
+    {
+      "priority": "P0",
+      "action": "跟踪Genie 3技术进展，评估AI生成游戏对研发模式的影响",
+      "owner": "技术/产品",
+      "output": "AI游戏生成技术评估报告"
+    },
+    {
+      "priority": "P0",
+      "action": "试用SeaVerse平台，验证快速原型创建能力",
+      "owner": "产品/策划",
+      "output": "SeaVerse平台试用报告"
+    },
+    {
+      "priority": "P1",
+      "action": "研究送真花营销模式的获客成本模型",
+      "owner": "运营/市场",
+      "output": "实物奖励获客可行性分析"
+    },
+    {
+      "priority": "P1",
+      "action": "深入分析方块解谜第三代产品设计逻辑",
+      "owner": "策划",
+      "output": "方块解谜品类设计分析文档"
+    },
+    {
+      "priority": "P2",
+      "action": "评估Codex Desktop App在研发流程中的应用价值",
+      "owner": "技术",
+      "output": "AI编程工具评估报告"
+    }
+  ],
+  "evaluation": {
+    "dimensions": [
+      {
+        "name": "形态对齐",
+        "rating": "⭐⭐⭐⭐⭐",
+        "note": "借花小游戏案例验证轻量化产品出海可行性，送真花营销创新极具参考价值"
+      },
+      {
+        "name": "机制对齐",
+        "rating": "⭐⭐⭐⭐",
+        "note": "方块解谜7000万DAU案例深度拆解，三代演进路径清晰"
+      },
+      {
+        "name": "技术对齐",
+        "rating": "⭐⭐⭐⭐⭐",
+        "note": "Genie 3和SeaVerse代表AI游戏生成的最新进展，对行业有颠覆性影响"
+      }
+    ],
+    "summary": "本期情报质量较高。技术对齐维度最突出，谷歌Genie 3和海艺SeaVerse的发布标志着AI游戏生成进入新阶段。形态对齐维度有借花小游戏这一创新营销案例。建议优先跟进AI游戏生成技术进展和送真花营销模式研究。"
+  },
+  "sources": [
+    "GameLook",
+    "游戏研究社",
+    "游戏葡萄",
+    "游戏那点事Gamez",
+    "游戏陀螺",
+    "白鲸出海",
+    "游戏智库",
+    "游讯先锋",
+    "王董的新游戏",
+    "宝玉AI",
+    "AI寒武纪",
+    "AGI Hunt",
+    "新智元",
+    "腾讯研究院",
+    "PaperAgent",
+    "老刘说NLP",
+    "APPSO"
+  ],
+  "generatedAt": "2026-02-03T11:43:11.283Z"
+}
