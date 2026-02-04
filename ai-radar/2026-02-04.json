@@ -1,0 +1,102 @@
+{
+  "date": "2026-02-04",
+  "videos": [
+    {
+      "title": "Anthropic 发布 Claude 法律插件，引发市场剧烈震荡",
+      "channel": "Bloomberg / Legal Technology News",
+      "link": "https://bloomberg.com/news/articles/2026-02-03/legal-software-stocks-plunge-as-anthropic-releases-new-ai-tool",
+      "valueLabel": "high",
+      "valueReason": "AI巨头从模型供应商转向应用层，直接冲击法律软件行业，引发万亿级市场震荡",
+      "content": "Anthropic 于2月3日发布了面向法律行业的 Claude 插件，具备文档审阅、风险标记、NDA分流和合规追踪能力。这一发布引发了法律软件行业的大幅下跌——高盛追踪的美国软件股指数单日下跌6%，创4月以来最大跌幅。Pearson、Relx（LexisNexis母公司）、Thomson Reuters、Wolters Kluwer 等公司股价大幅下挫，伦敦证交所集团跌幅达8.5%。纳斯达克100指数整体下跌1.6%。这标志着Anthropic从模型供应商转向应用层工作流所有者。",
+      "highlights": [
+        "法律文档自动审阅与风险标记，大幅提升效率",
+        "NDA 合同分流处理，支持合规追踪",
+        "Anthropic 从模型供应商转向应用层工作流所有者",
+        "引发市场对 AI 替代专业服务的担忧"
+      ],
+      "gameAIInsights": "游戏行业可借鉴此模式，开发针对游戏法务、IP合同审核、发行协议审阅的专业 AI 工具。同时，这也预示着 AI 将逐步渗透到游戏产业链的各个专业服务环节。"
+    },
+    {
+      "title": "OpenAI 发布 Codex 桌面应用，多代理并行编程时代来临",
+      "channel": "OpenAI 官方 / CNBC",
+      "link": "https://openai.com/index/introducing-the-codex-app",
+      "valueLabel": "high",
+      "valueReason": "多代理并行架构是AI编程的重大范式转变，将重塑软件开发流程",
+      "content": "OpenAI 于2月2日发布了 macOS 独立 Codex 应用，这是一个管理多个编码代理的命令中心。开发者可以在不同项目线程中并行运行多个 AI 代理，无需切换上下文。应用支持在合并前审查代理更改和评论差异，并内置 worktree 支持，让多个代理可以在同一仓库上无冲突工作。Skills 系统支持自定义工作流和工具集成。限时免费提供给 ChatGPT Free 和 Go 用户，Plus/Pro/Business/Enterprise/Edu 用户获得双倍速率限制。",
+      "highlights": [
+        "多代理并行工作，独立项目线程管理",
+        "审查代理更改、评论差异后再合并",
+        "Skills 系统支持自定义工作流和工具集成",
+        "限时免费开放，降低开发者入门门槛"
+      ],
+      "gameAIInsights": "游戏工作室可利用多代理架构同时处理不同模块：一个代理处理战斗系统，另一个处理 UI，第三个处理网络代码。Skills 系统可封装游戏引擎特定的编码规范和最佳实践。"
+    },
+    {
+      "title": "欧盟发布 AI 监管指南：禁止追踪员工情绪、限制 AI 暗模式",
+      "channel": "Reuters",
+      "link": "https://www.reuters.com/technology/artificial-intelligence/eu-lays-out-guidelines-misuse-ai-by-employers-websites-police-2025-02-04/",
+      "valueLabel": "medium",
+      "valueReason": "重要监管进展，但主要影响欧洲市场，对全球游戏行业有警示意义",
+      "content": "欧盟委员会于2月4日发布新的 AI 滥用指南，明确禁止雇主使用 AI 追踪员工情绪，禁止网站使用 AI 暗模式操纵用户进行金融承诺，限制警方使用 AI 基于生物特征预测犯罪行为。EU AI Act 将于2026年8月2日全面生效，违规罚款可达全球收入的1.5%-7%。",
+      "highlights": [
+        "禁止 AI 情绪监控应用于职场",
+        "禁止 AI 驱动的用户操纵暗模式",
+        "限制基于生物特征的 AI 犯罪预测",
+        "违规罚款高达全球收入7%"
+      ],
+      "gameAIInsights": "游戏公司需审视基于玩家行为的动态定价和个性化推荐系统，确保符合反操纵规定。表情识别和情绪感应功能需谨慎设计，避免触犯 AI 情绪追踪禁令。"
+    },
+    {
+      "title": "Nvidia Vera Rubin 平台：推理成本降至 Blackwell 十分之一",
+      "channel": "Nvidia / Wired",
+      "link": "https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer",
+      "valueLabel": "high",
+      "valueReason": "AI推理成本10倍下降将释放大量实时AI应用场景，对游戏行业影响深远",
+      "content": "黄仁勋在 CES 上宣布 Vera Rubin 平台已进入全面生产阶段，计划于2026年下半年交付。该平台由六颗芯片组成：Vera CPU、Rubin GPU、NVLink 6 Switch、ConnectX-9 SuperNIC、BlueField-4 DPU 和 Spectrum-6 以太网交换机。采用台积电3纳米工艺。相比 Blackwell，推理 token 成本降低10倍，训练混合专家模型所需 GPU 数量减少4倍。Microsoft 和 CoreWeave 将率先部署。",
+      "highlights": [
+        "推理成本降至 Blackwell 的十分之一",
+        "训练 MoE 模型所需 GPU 数量减少75%",
+        "采用台积电3纳米工艺",
+        "提供 NVL72 和 HGX NVL8 机架级解决方案"
+      ],
+      "gameAIInsights": "推理成本大幅下降意味着游戏内实时 AI 功能（智能 NPC、动态叙事、程序化内容生成）将变得更加经济可行。云游戏服务可以更低成本部署 AI 增强功能。"
+    },
+    {
+      "title": "Google Gemini 3 系列发布：博士级推理能力",
+      "channel": "Google Blog / Android Central",
+      "link": "https://blog.google/products/gemini/gemini-3/",
+      "valueLabel": "high",
+      "valueReason": "Gemini 3是Google最强AI模型，月活6.5亿用户，多模态能力领先",
+      "content": "Google 发布 Gemini 3 系列模型，包括 Flash（默认模型，博士级推理，闪电速度）、Pro（数学/编码高级任务，跨文本/图像/音频/视频的最先进推理）和 Deep Think（多轮迭代推理，Ultra 订阅用户专享）。Gemini App 全球月活用户超过6.5亿。1月更新包括 NotebookLM 集成闪卡/测验功能、Gemini 导航集成、自定义 Gems 和 AI Overviews 增强。",
+      "highlights": [
+        "Flash 模型：闪电速度 + 博士级推理",
+        "Deep Think：多轮迭代解决复杂问题",
+        "跨文本、图像、音频、视频的多模态理解",
+        "月活6.5亿，全球最大 AI 应用之一"
+      ],
+      "gameAIInsights": "Gemini 3 的多模态能力可用于游戏内容理解和生成。Flash 模型的速度适合实时游戏场景，Deep Think 可用于复杂的游戏策略 AI 和叙事设计辅助。"
+    },
+    {
+      "title": "Microsoft Muse：首个专为游戏设计的生成式 AI 模型",
+      "channel": "Microsoft Research / Xbox News",
+      "link": "https://www.microsoft.com/en-us/research/blog/introducing-muse-our-first-generative-ai-model-designed-for-gameplay-ideation/",
+      "valueLabel": "high",
+      "valueReason": "AI+游戏领域里程碑，首个专为游戏设计的WHAM模型，开源可用",
+      "content": "Microsoft Research 与 Xbox Game Studios 的 Ninja Theory 合作，发布了 Muse——首个 World and Human Action Model (WHAM)。该模型基于多人竞技游戏《Bleeding Edge》训练，能深度理解3D游戏世界、物理规则和玩家控制器动作。可生成游戏画面、控制器动作或两者兼备。应用场景包括游戏玩法原型设计、向现有游戏注入新内容、玩家驱动的内容创作，以及游戏保存（无需传统重制即可让老游戏适配现代硬件）。模型权重已在 Azure AI Foundry 开源，附带交互式 WHAM Demonstrator。Microsoft 计划在 Copilot Labs 推出交互式 AI 游戏体验。",
+      "highlights": [
+        "首个专为游戏设计的 WHAM 生成模型",
+        "理解3D世界、物理和玩家动作",
+        "支持玩法原型、内容注入、游戏保存",
+        "模型开源，可在 Azure AI Foundry 体验"
+      ],
+      "gameAIInsights": "这是 AI+游戏领域的里程碑。Muse 可大幅加速游戏原型验证，让设计师快速测试玩法概念。游戏保存功能为复古游戏市场开辟新可能。玩家生成内容将迎来全新形态。"
+    }
+  ],
+  "summary": {
+    "keyTrend1": "AI 应用化加速：Anthropic 法律插件、OpenAI Codex App 表明 AI 巨头正从模型层向应用层迁移，直接进入垂直行业工作流",
+    "keyTrend2": "多代理架构崛起：Codex 多代理并行、Skills 系统展示了 AI 编程未来形态——人类监督多个 AI 代理协作完成复杂任务",
+    "keyTrend3": "AI 成本持续下降：Nvidia Rubin 推理成本降至十分之一，将释放更多实时 AI 应用场景",
+    "keyTrend4": "游戏 AI 专用模型涌现：Microsoft Muse 是首个专为游戏设计的生成式 AI，预示着游戏行业将拥有定制化的 AI 工具链"
+  },
+  "generatedAt": "2026-02-04T12:00:00.000Z"
+}
