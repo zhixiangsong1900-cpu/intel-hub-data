@@ -1,0 +1,95 @@
+{
+  "date": "2026-02-05",
+  "videos": [
+    {
+      "title": "Google 全面开放 Gemini 2.0，虚拟智能体推进下一阶段",
+      "channel": "CNBC / Google",
+      "link": "https://www.cnbc.com/2025/02/05/google-opens-gemini-2point0-its-most-powerful-ai-model-to-everyone.html",
+      "valueLabel": "high",
+      "valueReason": "Google 将最强 AI 模型向所有人开放，标志着虚拟智能体普及化的重要一步",
+      "content": "Google 已将其最强大的 AI 模型 Gemini 2.0 向所有人开放，作为其虚拟智能体战略的下一阶段。这意味着更多开发者和用户可以直接使用 Google 顶尖的 AI 能力，推动智能体在搜索、助手和各类应用中的落地。此举进一步加剧与 OpenAI、Anthropic 等在消费级与企业级市场的竞争。",
+      "highlights": [
+        "Gemini 2.0 全面开放，降低使用门槛",
+        "虚拟智能体战略持续推进",
+        "与 OpenAI、Anthropic 竞争加剧"
+      ],
+      "gameAIInsights": "游戏可接入 Gemini 2.0 做智能 NPC、剧情生成或玩家助手。开放模型有利于中小团队以更低成本集成顶级语言与多模态能力。"
+    },
+    {
+      "title": "OpenAI Codex 应用与 Sora 动态更新，ChatGPT 用户规模达 8 亿",
+      "channel": "OpenAI 官方",
+      "link": "https://openai.com/blog",
+      "valueLabel": "high",
+      "valueReason": "多代理编程与视频生成持续迭代，规模效应显现",
+      "content": "OpenAI 近期更新包括：2 月 2 日发布 Codex 应用（多代理编码命令中心）、Sora 信息流理念更新（2 月 3 日）、Codex 工程与 harness 更新（2 月 4 日）。公司正在扩展基础设施以支持约 8 亿 ChatGPT 用户，多代理编程与视频生成能力持续迭代。",
+      "highlights": [
+        "Codex 应用支持多代理并行编程",
+        "Sora 产品理念与工程持续更新",
+        "ChatGPT 用户规模向 8 亿迈进"
+      ],
+      "gameAIInsights": "Codex 多代理架构可用于游戏研发管线：同时推进玩法、UI、网络等模块。Sora 类能力与游戏过场、素材生成结合空间大。"
+    },
+    {
+      "title": "Google DeepMind：Project Genie、D4RT、Veo 3.1 齐发",
+      "channel": "Google DeepMind",
+      "link": "https://deepmind.google/discover/blog/",
+      "valueLabel": "high",
+      "valueReason": "无限交互世界、四维视觉与视频生成代表前沿方向",
+      "content": "Google DeepMind 近期公布多项进展（2026 年 1 月）：Project Genie 聚焦无限交互世界生成，D4RT 探索四维 AI 视觉，Veo 3.1 在视频生成上提升一致性与创意。这些方向对游戏、仿真与内容创作有直接借鉴意义。",
+      "highlights": [
+        "Project Genie：无限交互世界",
+        "D4RT：四维 AI 视觉研究",
+        "Veo 3.1：视频一致性与创意增强"
+      ],
+      "gameAIInsights": "Genie 与「无限世界」与开放世界、UGC 游戏高度相关；D4RT 可探索游戏中的时空与物理表现；Veo 3.1 可用于过场、预告与素材生成。"
+    },
+    {
+      "title": "Sam Altman 批评 Anthropic 超级碗广告「有趣但不诚实」",
+      "channel": "行业资讯",
+      "link": "https://openai.com",
+      "valueLabel": "medium",
+      "valueReason": "反映 AI 巨头在品牌与伦理叙事上的分歧",
+      "content": "Anthropic 在超级碗广告中主打 Claude 作为「无广告的 AI 聊天替代品」，与带广告的聊天产品对比。OpenAI 的 Sam Altman 公开批评该广告「有趣但不诚实」，引发业内对 AI 产品营销与伦理叙事的讨论。",
+      "highlights": [
+        "Anthropic 以「无广告」作为 Claude 卖点",
+        "Altman 质疑广告表述的诚实性",
+        "AI 品牌与伦理叙事竞争升温"
+      ],
+      "gameAIInsights": "游戏内 AI 助手与广告、变现的边界未来也会被审视，可提前思考合规与用户信任的叙事。"
+    },
+    {
+      "title": "Nvidia AI 芯片对 ByteDance 出口仍受美国政府条件约束",
+      "channel": "Reuters / 政策资讯",
+      "link": "https://www.reuters.com",
+      "valueLabel": "medium",
+      "valueReason": "地缘与供应链影响全球 AI 与算力布局",
+      "content": "Nvidia 向字节跳动（ByteDance）销售 AI 芯片仍需获得特朗普政府批准。美国政府对高算力芯片出口实施「了解你的客户」等要求，以限制军用或敏感用途。这影响全球算力分配与云游戏、AI 推理等依赖高端 GPU 的业务。",
+      "highlights": [
+        "Nvidia 对 ByteDance 芯片销售有条件",
+        "KYC 等出口管制持续",
+        "算力供应链地缘化"
+      ],
+      "gameAIInsights": "云游戏与实时 AI 游戏依赖算力；出口管制可能影响部分区域的数据中心与模型部署，需关注合规与备选方案。"
+    },
+    {
+      "title": "巨人网络《超自然行动组》AI 大模型对局破 2500 万次",
+      "channel": "巨人网络 / 36氪",
+      "link": "https://www.36kr.com/p/3647289104141953",
+      "valueLabel": "high",
+      "valueReason": "国内首个大 DAU 游戏中深度落地 AI 大模型玩法，验证可行性与规模",
+      "content": "巨人网络《超自然行动组》推出「AI 大模型挑战」玩法，为国内首个在大 DAU 游戏中深度融合大模型的原生玩法。上线约一周，AI 与真人玩家对局数累计超 2500 万次。AI 角色由大模型实时驱动，具备 ASR、LLM、TTS 全链路，能理解语义、模仿真人风格并根据对局做出策略。巨人网络与阿里云、火山引擎、腾讯云等合作，解决模型适配、实时推理与高并发稳定性问题。",
+      "highlights": [
+        "国内首个大 DAU 游戏深度融合大模型玩法",
+        "AI 与真人对局超 2500 万次",
+        "ASR+LLM+TTS 实时驱动，可理解语义与策略"
+      ],
+      "gameAIInsights": "验证了在真实大 DAU 场景下大模型玩法的可行性与用户接受度，对后续「AI 假人」、陪练、剧情 NPC 等设计有重要参考价值。"
+    }
+  ],
+  "summary": {
+    "keyTrend1": "大模型全面开放与虚拟智能体：Google Gemini 2.0 全面开放，与 OpenAI 8 亿用户规模共同推动智能体与多模态能力普及",
+    "keyTrend2": "游戏 + AI 落地验证：巨人网络《超自然行动组》2500 万局对局证明大 DAU 游戏中大模型玩法可行，DeepMind Genie/Veo 指向无限世界与视频生成",
+    "keyTrend3": "品牌与监管并行：Anthropic 与 OpenAI 在广告叙事上分歧显现；Nvidia 芯片出口管制影响算力与区域部署"
+  },
+  "generatedAt": "2026-02-05T12:00:00.000Z"
+}
