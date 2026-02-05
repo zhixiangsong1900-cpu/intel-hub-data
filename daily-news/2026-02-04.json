@@ -1,0 +1,495 @@
+{
+  "date": "2026-02-04",
+  "overview": {
+    "totalCount": 30,
+    "highValueCount": 6,
+    "mediumValueCount": 14,
+    "lowValueCount": 10,
+    "valueDistribution": "本期共收录 30 条情报：🔴高价值 6 条 / 🟡中价值 14 条 / 🟢低价值 10 条",
+    "filterLogic": "",
+    "valueJudgment": "本期重点信号：异环「小而精」都市开放世界与降本思路可借鉴；1月全球收入榜王者翻倍、终末地空降增长；AI 侧 Vidu 内容生产链、Agent-KB、Genie 3 冲击与零编程引擎等值得跟踪。"
+  },
+  "formFactor": [
+    {
+      "title": "异环，不想做大",
+      "link": "https://mp.weixin.qq.com/s/UDQgtZh4-9PIPZH7lsK7mg",
+      "valueLabel": "high",
+      "valueReason": "都市开放世界「小而精」、降肝减氪与内容密度设计对二游立项与成本控制有直接参考价值",
+      "content": "游戏葡萄深度解析《异环》付费测试版本：产品不做「大而全」，而是把单块地图做成街区级、把城市做扎实。街道与店铺绑定开车、时装、开店等玩法，钱（方斯）用于买车买房买时装与经营，监狱与违法设定强化角色扮演；新增俄罗斯方块、钓鱼、麻将、密室逃脱「医院异象委托」、搜打撤「粉爪大劫案」等小玩法延长寿命。养成侧优化空幕词条预览、觉醒自选、大富翁式抽卡与时装付费转移，控制肝度与强度付费。制作人强调团队「不是被成本限制，而是不需要花那么多成本」，螺蛳壳里做道场的思路对二游大世界立项极具参考价值。",
+      "highlights": [
+        {
+          "label": "形态对齐",
+          "text": "街区级地图+高内容密度，店铺与玩法强绑定，单手/竖版可借鉴的都市动线设计"
+        },
+        {
+          "label": "商业化",
+          "text": "降肝减氪、时装付费转移、大富翁式抽卡与觉醒自选，兼顾留存与付费体验"
+        },
+        {
+          "label": "成本控制",
+          "text": "不做堆料大世界，小社会做深做实，可复用的管线与节奏对中小团队有参考"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "产品评审",
+          "text": "将异环「开放小世界」与内容密度策略纳入竖版/二游立项评审参考"
+        },
+        {
+          "label": "系统拆解",
+          "text": "拆解店铺枢纽、方斯经济与违法/监狱等 RP 设计在长线留存上的作用"
+        },
+        {
+          "label": "成本对标",
+          "text": "对比同赛道大世界项目，评估「小而精」路线在自家品类的可行性"
+        }
+      ]
+    },
+    {
+      "title": "《异环》不装了：2026年首个都市开放世界稳了？",
+      "link": "https://mp.weixin.qq.com/s/TQKYbxT8QbvqQPf3vQNUqg",
+      "valueLabel": "medium",
+      "valueReason": "都市开放世界赛道与上线节奏有市场参考价值，需结合竞品动态持续跟踪",
+      "content": "游戏日报解读《异环》作为 2026 年首个都市开放世界产品的定位与市场预期。与网易、米哈游等竞品对比，异环在题材与上线时间窗口上形成差异化。报道从产品曝光、测试节奏与行业讨论角度梳理「都市开放世界」赛道热度，对关注二游大世界与轻量化形态的团队有情报价值。",
+      "highlights": [
+        {
+          "label": "赛道窗口",
+          "text": "都市开放世界 2026 年首款上线产品，题材与档期形成差异化"
+        },
+        {
+          "label": "竞品视角",
+          "text": "与网易、米哈游大世界产品对比，便于做形态与节奏对标"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "竞品跟踪",
+          "text": "持续关注异环公测数据与用户反馈，用于自家大世界/竖版立项校准"
+        }
+      ]
+    },
+    {
+      "title": "这么快？抢先网易米哈游，国内第一个「都市开放世界」今天杀出来了",
+      "link": "https://mp.weixin.qq.com/s/CXDL7OsJIRIBWFNeNnn5Sg",
+      "valueLabel": "medium",
+      "valueReason": "国内首个都市开放世界上线节点与市场反应对赛道判断有参考价值",
+      "content": "游戏那点事报道国内首个都市题材开放世界产品上线节奏，对比网易、米哈游等大厂布局，分析「都市开放世界」作为细分赛道的关注度与时间窗口。对做二游大世界或竖版开放体验的团队而言，有助于把握品类热度与竞品节奏。",
+      "highlights": [
+        {
+          "label": "品类热度",
+          "text": "都市开放世界作为新标签的媒体与用户关注度"
+        },
+        {
+          "label": "档期参考",
+          "text": "首款产品上线时机对后续产品的档期规划有参考"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "赛道研判",
+          "text": "结合异环表现评估都市开放世界在自家产品线中的优先级"
+        }
+      ]
+    }
+  ],
+  "socialEvergreen": [
+    {
+      "title": "1月全球收入榜：王者环比翻倍，收入约12亿；鹰角空降增长Top 4",
+      "link": "https://mp.weixin.qq.com/s/g-6dP8YOifSgpgGi-c1vaw",
+      "valueLabel": "high",
+      "valueReason": "全球收入与增长榜具权威数据价值，终末地、心动小镇、逆战未来等产品的发行与留存策略可借鉴",
+      "content": "AppMagic 发布 2026 年 1 月全球手游收入与增长榜。收入榜：王者荣耀分成后约 1.7 亿美元（约 11.79 亿人民币）环比翻倍，S42 与大禹、皮肤与战令等推动；原神 1 月约 4350 万美元，空月之歌终曲与哥伦比娅卡池带动；无畏契约手游分成后超 2350 万美元首次入榜；怪物弹珠 RpD 领先。增长榜：明日方舟终末地 1/22 全球公测，预下载当日多国免费榜登顶，玩法融合即时战斗、开放探索与自动化生产线；逆战未来 1/13 上线国服 iOS 分成约 870 万美元，数值平权与 PC/移动互通；Dragon Traveler 国际服、心动小镇国际版（收入环比约 471%）、LINE Disney Tsum Tsum 周年庆等均有亮眼表现。",
+      "highlights": [
+        {
+          "label": "头部产品",
+          "text": "王者、原神、无畏契约等的内容与商业化节奏支撑收入与留存"
+        },
+        {
+          "label": "新作表现",
+          "text": "终末地全球发行与逆战未来数值平权+情怀营销的开局策略"
+        },
+        {
+          "label": "出海与常青",
+          "text": "心动小镇、Tsum Tsum 等通过版本与活动拉高 LTV 与回流"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "数据对标",
+          "text": "用 AppMagic 等数据做自家产品收入与增长曲线对标"
+        },
+        {
+          "label": "发行策略",
+          "text": "参考终末地全球同步与心动小镇本地化+买量的组合"
+        },
+        {
+          "label": "常青设计",
+          "text": "学习周年庆与限定内容对老玩家回流与付费的拉动方式"
+        }
+      ]
+    }
+  ],
+  "techStack": [
+    {
+      "title": "在一场 5 天的发布会里，Vidu 放出了一整套内容生产链",
+      "link": "https://mp.weixin.qq.com/s/9C_qhzSCxTbhLySGp1ivTw",
+      "valueLabel": "high",
+      "valueReason": "AI 视频与内容生产链对游戏 PV、素材与 UGC 管线有直接应用价值",
+      "content": "十字路口 Crossing 报道 Vidu 在 5 天发布会中展示的完整内容生产链能力。从生成到剪辑、配音、发布的流程化能力，对游戏行业的 PV 制作、素材批量生产与 UGC 工具链有参考价值，属于技术对齐中值得跟进的方向。",
+      "highlights": [
+        {
+          "label": "生产链",
+          "text": "从生成到发布的一体化内容生产链，可映射到游戏素材与 PV 管线"
+        },
+        {
+          "label": "落地场景",
+          "text": "游戏宣传片、角色展示、UGC 视频等均可评估接入"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "管线评估",
+          "text": "评估 Vidu 类能力在宣传与 UGC 管线中的接入点与成本"
+        },
+        {
+          "label": "试点场景",
+          "text": "选择 1～2 个具体场景（如角色 PV、活动预告）做小规模试点"
+        }
+      ]
+    },
+    {
+      "title": "Agent框架各自为战？谷歌&微软：用Agent-KB让经验自由流动",
+      "link": "https://mp.weixin.qq.com/s/pQdw-DMti0_wKWa-AkQhFQ",
+      "valueLabel": "medium",
+      "valueReason": "Agent 经验共享与知识库对游戏 AI、运营自动化与 NPC 行为有潜在价值",
+      "content": "PaperAgent 介绍谷歌与微软在 Agent 知识库（Agent-KB）方向的进展，旨在让不同 Agent 框架间的经验与知识可复用、可流动。对游戏侧 Runtime AI、运营自动化与 NPC 行为设计有长期参考价值，需结合具体框架落地情况跟踪。",
+      "highlights": [
+        {
+          "label": "经验复用",
+          "text": "跨框架 Agent 经验共享，有利于降低多 Agent 系统的试错成本"
+        },
+        {
+          "label": "游戏场景",
+          "text": "NPC 行为、客服与运营自动化等可关注后续开源与接口"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "技术跟踪",
+          "text": "关注 Agent-KB 的开放能力与在游戏场景的案例"
+        }
+      ]
+    },
+    {
+      "title": "黄一孟拼了！玩家能零编程做游戏，免费「AI原生游戏引擎」来了？",
+      "link": "https://mp.weixin.qq.com/s/TjkZ-ZhwUml1gMDMqwRPGg",
+      "valueLabel": "high",
+      "valueReason": "零编程与 AI 原生引擎直接降低创作门槛，对 UGC 与内部工具链有参考价值",
+      "content": "GameLook 报道心动/黄一孟方向推出的「零编程做游戏」与免费 AI 原生游戏引擎相关动态。玩家或创作者无需编程即可参与游戏制作，与 UGC 与低代码开发趋势一致，对自研 UGC 工具与内部快速原型有借鉴意义。",
+      "highlights": [
+        {
+          "label": "门槛下探",
+          "text": "零编程+AI 原生引擎，有利于扩大创作者与 UGC 规模"
+        },
+        {
+          "label": "商业化",
+          "text": "免费策略对生态与后续变现的平衡可作竞品参考"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "UGC 策略",
+          "text": "评估类似「零编程+AI 引擎」在自家 UGC 路线中的位置"
+        },
+        {
+          "label": "内部工具",
+          "text": "借鉴思路用于策划/运营侧快速原型与配置化生产"
+        }
+      ]
+    },
+    {
+      "title": "被AI游戏打蒙！两大引擎Unity、Epic老板紧急发帖回应「Genie 3冲击波」",
+      "link": "https://mp.weixin.qq.com/s/3OGKouz1lClmweFONjs0Fw",
+      "valueLabel": "medium",
+      "valueReason": "引擎厂商对 Genie 3 等 AI 游戏的回应反映行业对生成式游戏的技术与产品判断",
+      "content": "GameLook 报道 Unity 与 Epic 负责人对 Genie 3 等 AI 驱动游戏浪潮的公开回应。反映传统引擎厂商对「AI 原生」游戏形态的重视与应对，对技术选型与中长期产品形态判断有参考价值。",
+      "highlights": [
+        {
+          "label": "行业态度",
+          "text": "两大引擎对 AI 游戏的重视程度与产品路线信号"
+        },
+        {
+          "label": "形态演进",
+          "text": "Genie 3 代表的生成式游戏对现有引擎与管线的影响"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "技术研判",
+          "text": "结合引擎方动态度量自研管线与 AI 能力的投入节奏"
+        }
+      ]
+    },
+    {
+      "title": "Block类，还能玩出新花样吗？",
+      "link": "https://mp.weixin.qq.com/s/45-ZYxbRlKPGNubPSk0FVw",
+      "valueLabel": "medium",
+      "valueReason": "Block 类玩法创新对休闲与中轻度产品有设计参考价值",
+      "content": "王董的新游戏探讨 Block 类玩法的创新空间。该类玩法在休闲与中轻度产品中常见，文章从设计维度讨论如何做出差异化与长线可玩性，对形态与机制对齐有参考价值。",
+      "highlights": [
+        {
+          "label": "玩法创新",
+          "text": "Block 类在规则与表现上的拓展方向"
+        },
+        {
+          "label": "品类融合",
+          "text": "与竖版、轻量化结合的可能性"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "设计参考",
+          "text": "在休闲/中轻度项目中评估 Block 类变体与融合方案"
+        }
+      ]
+    },
+    {
+      "title": "一句话生成一个宇宙？这个AI平台想让每个人都能成为游戏开发者",
+      "link": "https://mp.weixin.qq.com/s/l8BL_FP8S4ttcouAAMX_xw",
+      "valueLabel": "medium",
+      "valueReason": "自然语言生成游戏/宇宙对 UGC 与 AI 工具落地有概念与产品参考价值",
+      "content": "游讯先锋报道某 AI 平台以「一句话生成宇宙/游戏」为卖点，降低游戏创作门槛。与零编程引擎、AIGC 工具趋势一致，对 UGC 与内部创意工具有参考价值，需结合实际可用性与效果跟踪。",
+      "highlights": [
+        {
+          "label": "生成能力",
+          "text": "自然语言到游戏/世界生成的产品形态"
+        },
+        {
+          "label": "受众",
+          "text": "面向泛用户的创作门槛下探"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "产品跟踪",
+          "text": "关注该平台能力边界与在游戏场景的落地案例"
+        }
+      ]
+    }
+  ],
+  "aiNews": [
+    {
+      "title": "追更太累，桌面版AI帮我把 OpenClaw 的剧情补齐了",
+      "link": "https://mp.weixin.qq.com/s/_Qro1i26LYrN-DHYcBxLgg",
+      "valueLabel": "medium",
+      "valueReason": "AI 补全剧情对叙事向产品与运营内容生产有参考价值",
+      "summary": "AGI Hunt 介绍使用桌面版 AI 工具将 OpenClaw 剧情补齐的体验。体现 AI 在长线叙事与「追更」场景下的辅助能力，对剧情向游戏与内容运营有借鉴意义。"
+    },
+    {
+      "title": "又一节抢手公开课直播链接流出",
+      "link": "https://mp.weixin.qq.com/s/HJrXMH5V16h2LMK2W3bDDQ",
+      "valueLabel": "low",
+      "valueReason": "公开课引流信息，可作为学习资源备查",
+      "summary": "PaperAgent 发布的公开课直播链接，适合作为行业学习与情报补充渠道。"
+    },
+    {
+      "title": "品味 + 工程思维：AI 时代最难被替代的两件事",
+      "link": "https://mp.weixin.qq.com/s/FeFPDLYwQedtE9tEIjuKPA",
+      "valueLabel": "medium",
+      "valueReason": "对团队能力建设与 AI 协作定位有观念参考价值",
+      "summary": "宝玉 AI 从品味与工程思维两个维度讨论 AI 时代中人的不可替代性，对研发团队能力模型与 AI 协作方式有启发。"
+    }
+  ],
+  "otherNews": [
+    {
+      "title": "突然曝光：腾讯「最大牌」射击新品，还有狠活儿？",
+      "link": "https://mp.weixin.qq.com/s/k-e-OXX6uKHI1VrHVg8qDQ",
+      "valueLabel": "medium",
+      "valueReason": "腾讯射击新品动向对品类与竞品跟踪有参考价值",
+      "content": "游戏日报报道腾讯重磅射击新品曝光与可能的差异化卖点，对射击赛道与头部厂商产品线布局有情报价值。"
+    },
+    {
+      "title": "1865年《红旗法案》的幽灵，仍在今天游荡",
+      "link": "https://mp.weixin.qq.com/s/JdWcWiBuYoRUwGOsEKogmQ",
+      "valueLabel": "low",
+      "valueReason": "政策与历史类比，偏宏观认知，无直接落地建议",
+      "content": "腾讯研究院从历史「红旗法案」谈当下监管与创新平衡，偏政策与宏观视角，适合作为背景阅读。"
+    },
+    {
+      "title": "1月全球手游收入Top20：《王者荣耀》飙升110%，三角洲第13，原神第14",
+      "link": "https://mp.weixin.qq.com/s/mEY9pVl2Q9XG6x--_9LyDA",
+      "valueLabel": "medium",
+      "valueReason": "收入榜结构与头部产品表现对市场判断有参考价值",
+      "content": "游戏那点事梳理 1 月全球手游收入 Top20：王者荣耀环比大幅增长，三角洲、原神等排名与占比变化，为收入与品类结构提供补充视角。"
+    },
+    {
+      "title": "2月预计14款新游上线：多款捉宠游戏上线，莉莉丝海外捉宠爆款回国",
+      "link": "https://mp.weixin.qq.com/s/JCeYF0f-EMQeCsLEsdg5ZA",
+      "valueLabel": "medium",
+      "valueReason": "2 月新游档期与捉宠品类动态对发行与竞品跟踪有价值",
+      "content": "GameLook 汇总 2 月预计上线的 14 款新游，多款捉宠类产品与莉莉丝海外捉宠产品回国等动向，对档期与品类热度有参考。"
+    },
+    {
+      "title": "德国力挺游戏业！2026年政府将给开发者10亿元补贴",
+      "link": "https://mp.weixin.qq.com/s/tNMW1noYVJdkIPn1YHs9Yg",
+      "valueLabel": "low",
+      "valueReason": "海外政策与补贴信息，对出海团队有间接参考",
+      "content": "德国 2026 年拟对游戏开发者提供约 10 亿元规模补贴，反映欧洲对游戏产业的政策支持，出海团队可作环境背景了解。"
+    },
+    {
+      "title": "独立游戏拯救好莱坞？300万美元制作改编电影，首周票房近1.5亿！",
+      "link": "https://mp.weixin.qq.com/s/WpLf6iGJYGRj0fSTvIVz9A",
+      "valueLabel": "low",
+      "valueReason": "影游联动案例，偏行业趣闻与 IP 拓展参考",
+      "content": "独立游戏改编电影以约 300 万美元制作成本取得首周近 1.5 亿票房，作为影游联动与 IP 衍生案例可供了解。"
+    },
+    {
+      "title": "王牌对王牌，从箭头的故事说起。",
+      "link": "https://mp.weixin.qq.com/s/Gm6VnmDct8aUd_K8_3FT-w",
+      "valueLabel": "low",
+      "valueReason": "节目/娱乐向内容，情报价值有限",
+      "content": "龙虾游戏推荐关于「王牌对王牌」与箭头相关的娱乐向内容，可作为休闲阅读。"
+    },
+    {
+      "title": "我参加了一场哈基米Only展，看到全场神人合唱「哈基米」「曼波」",
+      "link": "https://mp.weixin.qq.com/s/tTpADGVxoBCtNPRmlwIykw",
+      "valueLabel": "low",
+      "valueReason": "线下活动见闻，偏泛娱乐",
+      "content": "3DM 编辑参加哈基米 Only 展的见闻与现场氛围，属线下活动与社区文化侧写。"
+    },
+    {
+      "title": "昨天，我去了一趟《英雄联盟》的祖安",
+      "link": "https://mp.weixin.qq.com/s/LHjkTsZMjVfc4MhEksrXnA",
+      "valueLabel": "low",
+      "valueReason": "IP 线下/体验报道，情报价值有限",
+      "content": "3DM 关于英雄联盟祖安主题线下体验的报道，偏 IP 与线下体验。"
+    },
+    {
+      "title": "《QQ农场》官宣回归 |《碧蓝幻想Relink》价格永降",
+      "link": "https://mp.weixin.qq.com/s/5v7BRI0FFbxU_ulZb71zfA",
+      "valueLabel": "low",
+      "valueReason": "产品动态短讯，可作品类与经典 IP 回归参考",
+      "content": "QQ 农场官宣回归与碧蓝幻想 Relink 永久降价等产品动态汇总。"
+    },
+    {
+      "title": "游戏圈闯进来一个邪修？97%的玩家连五年都活不过",
+      "link": "https://mp.weixin.qq.com/s/r0jKZMdKUVA0eYWSF4ykKA",
+      "valueLabel": "low",
+      "valueReason": "标题向话题，需结合原文判断设计或数值讨论价值",
+      "content": "3DM 以「邪修」比喻某类设计或产品，讨论玩家长期留存与生命周期，具体角度需结合原文。"
+    },
+    {
+      "title": "在一个被世界忽视的群岛国家，和600万人同时看一场电竞决赛",
+      "link": "https://mp.weixin.qq.com/s/535B8qfeDT5Lk35_ehhkLg",
+      "valueLabel": "low",
+      "valueReason": "电竞与地域市场见闻，偏人文与市场拓展背景",
+      "content": "游戏研究社报道某群岛国家电竞决赛的观看规模与当地市场氛围，对出海与区域电竞有背景参考。"
+    },
+    {
+      "title": "Falcom社长访谈：希望将重制计划推进到《零之轨迹》",
+      "link": "https://mp.weixin.qq.com/s/5t2YeejZsBXvkizyPTPnEg",
+      "valueLabel": "low",
+      "valueReason": "主机/单机厂商动向，对 IP 与重制策略有间接参考",
+      "content": "Falcom 社长访谈中透露希望将重制计划推进至《零之轨迹》，属主机与日式 RPG 厂商动态。"
+    },
+    {
+      "title": "【白夜谈】出海看鲸鱼，也是一种「抽卡」游戏",
+      "link": "https://mp.weixin.qq.com/s/WKtpWXXms1jsp2zmNEBdgg",
+      "valueLabel": "low",
+      "valueReason": "专栏随笔，设计类比有轻度启发",
+      "content": "游戏研究社白夜谈将出海观鲸与抽卡心流类比，轻松向设计思考。"
+    },
+    {
+      "title": "出自上海，今年第一款破1000万DAU的游戏官宣——但它还在爆发？",
+      "link": "https://mp.weixin.qq.com/s/cZ2fI-Ki0o29NtYjqkRGrA",
+      "valueLabel": "medium",
+      "valueReason": "千万 DAU 产品与增长曲线对品类与发行有参考价值",
+      "content": "游戏那点事报道上海某产品成为今年首款官宣破 1000 万 DAU 的游戏且仍在增长，对超休闲或泛用户产品的规模与爆发路径有参考价值。"
+    },
+    {
+      "title": "终于有产品，打开了缺觉的日本人的钱袋子",
+      "link": "https://mp.weixin.qq.com/s/jd51JPfrw16OvzKau9kEcQ",
+      "valueLabel": "medium",
+      "valueReason": "日本市场细分需求与变现案例对出海有参考价值",
+      "content": "白鲸出海分析某产品在日本市场打开「缺觉」等细分需求并实现付费突破，对出海日本与垂直场景变现有借鉴意义。"
+    },
+    {
+      "title": "2026也要加油吖",
+      "link": "https://mp.weixin.qq.com/s/cNnifo45LPtNyND7ABmfSw",
+      "valueLabel": "low",
+      "valueReason": "新年寄语类内容，无直接情报价值",
+      "content": "柠檬游戏说新年寄语类推送，无实质情报。"
+    }
+  ],
+  "actionItems": [
+    {
+      "priority": "P0",
+      "action": "异环「小而精」策略与成本对标",
+      "owner": "产品/立项",
+      "output": "立项评审参考文档与竞品成本区间结论"
+    },
+    {
+      "priority": "P0",
+      "action": "1月全球收入/增长榜数据对标",
+      "owner": "发行/数据",
+      "output": "自家产品在收入与增长维度的对标结论与动作项"
+    },
+    {
+      "priority": "P1",
+      "action": "Vidu 内容生产链在 PV/素材管线中的评估",
+      "owner": "技术/美术",
+      "output": "试点场景与接入可行性结论"
+    },
+    {
+      "priority": "P1",
+      "action": "零编程/AI 原生引擎与 UGC 路线评估",
+      "owner": "技术/产品",
+      "output": "UGC 与内部工具路线图更新"
+    },
+    {
+      "priority": "P2",
+      "action": "Agent-KB 与 Genie 3 等 AI 游戏动态跟踪",
+      "owner": "技术/战略",
+      "output": "季度技术雷达更新"
+    }
+  ],
+  "evaluation": {
+    "dimensions": [
+      {
+        "name": "形态对齐",
+        "rating": "⭐⭐⭐⭐",
+        "note": "异环都市开放小世界、内容密度与竖版可借鉴点突出；多款新游形态信息充足。"
+      },
+      {
+        "name": "机制对齐",
+        "rating": "⭐⭐⭐⭐",
+        "note": "收入与增长榜、终末地/心动小镇/逆战等发行与常青设计案例丰富。"
+      },
+      {
+        "name": "技术对齐",
+        "rating": "⭐⭐⭐⭐",
+        "note": "Vidu 生产链、Agent-KB、零编程引擎、Genie 3 等 AI 与工具链信号明确。"
+      }
+    ],
+    "summary": "本期 2.4 日报覆盖都市开放世界、全球收入/增长榜与 AI 内容生产与引擎等多条主线；异环与 1 月榜单为高价值重点，AI 侧多条可跟进落地。部分原文因链接超时未获取，已基于 RSS 与可得原文整理；建议对高价值条目后续补读原文深化。"
+  },
+  "sources": [
+    "游戏葡萄",
+    "游戏日报",
+    "游戏那点事",
+    "GameLook",
+    "AGI Hunt",
+    "十字路口Crossing",
+    "PaperAgent",
+    "宝玉AI",
+    "王董的新游戏",
+    "游讯先锋",
+    "3DM",
+    "游戏研究社",
+    "白鲸出海",
+    "柠檬游戏说",
+    "腾讯研究院",
+    "WeWe-RSS"
+  ],
+  "generatedAt": "2026-02-05T12:05:11.178Z"
+}
