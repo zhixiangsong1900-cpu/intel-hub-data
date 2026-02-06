@@ -1,0 +1,179 @@
+{
+  "date": "2026-02-05",
+  "overview": {
+    "totalCount": 4,
+    "highValueCount": 2,
+    "mediumValueCount": 2,
+    "lowValueCount": 0,
+    "valueDistribution": "本期共收录 4 条情报（部分链接无法访问已跳过）：🔴高价值 2 条 / 🟡中价值 2 条",
+    "filterLogic": "",
+    "valueJudgment": "本期重点：国产桌面 Agent（Skywork）实测与《鸣潮》3.1 叙事演出突破具有直接参考价值；网易《遗忘之海》与微信小游戏 1 月榜单反映品类趋势。"
+  },
+  "formFactor": [
+    {
+      "title": "离别，亦是下一次相见的开始：《鸣潮》3.1版本试玩小记",
+      "link": "https://mp.weixin.qq.com/s/7Xwrk9DECfmjmgK3rLrYQA",
+      "valueLabel": "high",
+      "valueReason": "库洛在二次元开放世界叙事与演出上的成熟跃迁，对竖版/移动端叙事与情感设计有直接借鉴价值",
+      "content": "机核对《鸣潮》3.1「远航星」版本的深度试玩。本版本以罗伊冰原与角色爱弥斯为主线，完成从被保护者到保护者再到自我实现者的弧光；叙事采用莫比乌斯环式因果闭环，配合 2D/3D、像素与插画、偶像演唱会与机甲大战等多形态演出，情感张力与完成度获高度评价。系统层面：动作手感与摩托车探索逻辑优化、小游戏「日灵流引」与环境解谜结合、长线运营通过小版本持续打磨而非一次性爆点的思路，对开放世界内容节奏与移动端体验有参考意义。",
+      "highlights": [
+        {
+          "label": "叙事跃迁",
+          "text": "悲剧结局与角色弧光完整，克制运用因果逻辑，情感服务技术"
+        },
+        {
+          "label": "演出形态",
+          "text": "多媒体融合（2D/3D、像素、演唱会、机甲战）无割裂感"
+        },
+        {
+          "label": "长线理念",
+          "text": "持续优化基础动作与探索逻辑，体验如生命般自然生长"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "叙事评审",
+          "text": "在立项/版本评审中参考本版本「氛围即叙事」与闭环结构"
+        },
+        {
+          "label": "演出拆解",
+          "text": "拆解爱弥斯演唱会与机甲战段落镜头与节奏用于内部标准"
+        },
+        {
+          "label": "运营节奏",
+          "text": "评估小版本持续打磨 vs 大内容爆点的资源分配"
+        }
+      ]
+    },
+    {
+      "title": "网易开放世界新游全靠「浪」？",
+      "link": "https://mp.weixin.qq.com/s/v_AP4JFAGRi14sPPFeYJ2Q",
+      "valueLabel": "medium",
+      "valueReason": "航海开放世界+回合制+局内肉鸽式成长与主城生活化设计，对「搜打撤」轻量化与竖版大世界有品类参考",
+      "content": "游戏矩阵对网易《遗忘之海》二测的体验报告。产品为航海题材大世界+回合制，主城奥托皮亚强调生活感（烤肉、灵船竞速、麻将、音游、撸猫、决斗NPC、经营小店）；出海探索占研发约七成，岛屿箱庭、恶作剧之门与回合制「强化骰子」、Rogue Luck 额外回合等机制结合；局内技能与装备在回城后「遗忘」，通过快递兑换金币做永久养成（头部/肢体改造）。美术为 Joker 工作室木偶风。",
+      "highlights": [
+        {
+          "label": "形态融合",
+          "text": "开放世界+回合制+肉鸽单局成长+主城生活模拟，差异化明确"
+        },
+        {
+          "label": "战斗机制",
+          "text": "强化骰子与弱点、Rogue Luck 额外回合，D&D 式策略与演出"
+        },
+        {
+          "label": "养成节奏",
+          "text": "局内收获兑换金币做永久改造，连接单局与长线"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "品类对标",
+          "text": "将「搜打撤+主城生活」结构纳入竖版/中重度产品参考库"
+        }
+      ]
+    }
+  ],
+  "socialEvergreen": [],
+  "techStack": [
+    {
+      "title": "我把一个离职同事的烂摊子，交给了国产 Agent",
+      "link": "https://mp.weixin.qq.com/s/_gjMsuFOq8sARBlGCgNtGQ",
+      "valueLabel": "high",
+      "valueReason": "昆仑天工 Skywork 桌面版在 Windows 上的实测：多格式整理、表格合并、会议纪要转 PPT、报告生成与 Humanizer 润色，对办公 Agent 落地有直接参考",
+      "content": "十字路口对昆仑天工 Skywork 桌面版的实测。场景为「接手离职同事遗留项目」：107 个文件含 Word/PDF/Excel/PPT/截图等。实测流程：目录盘点与文件分类、截图与设计稿按内容自动归类、多表合并（人力/成本/用户反馈）、会议记录筛选并生成 PPT、内置 Skills（含 Humanizer 润色）生成 DOC 综述报告并插图和表格、再输出 HTML 可视化页。支持指定本地文件夹为上下文，可选 Gemini/Claude；内置约百余 Skills，一键 Install。Windows 优先，会员约 19.99 美元。",
+      "highlights": [
+        {
+          "label": "任务链",
+          "text": "目录盘点→文件归类→表格合并→会议提要→报告生成→润色→网页展示"
+        },
+        {
+          "label": "多模态",
+          "text": "图片识别分类、PPT 生成与视觉检查、报告插图与版式稳定"
+        },
+        {
+          "label": "产品形态",
+          "text": "Windows 原生、本地文件夹隐私、Auto Router 多模型分配"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "技术评估",
+          "text": "评估 Skywork 类桌面 Agent 在内部知识库与项目交接场景的试点"
+        },
+        {
+          "label": "Skills 复用",
+          "text": "研究 Humanizer 与 PPT/DOC Skills 对内容生产提效的量化"
+        },
+        {
+          "label": "竞品跟踪",
+          "text": "持续跟踪桌面 Agent（OpenClaw、Claude Cowork、Skywork）能力边界"
+        }
+      ]
+    }
+  ],
+  "aiNews": [
+    {
+      "title": "我把一个离职同事的烂摊子，交给了国产 Agent",
+      "link": "https://mp.weixin.qq.com/s/_gjMsuFOq8sARBlGCgNtGQ",
+      "valueLabel": "high",
+      "valueReason": "桌面级 Agent 进入真实工作流，多格式整理与报告生成可显著降本。",
+      "summary": "昆仑天工 Skywork 桌面版 Windows 实测：从混乱项目文件夹到自动分类、表格合并、会议纪要转 PPT、万字报告生成与 Humanizer 润色，完整链路验证桌面 Agent 在接手遗留项目场景的可用性。"
+    }
+  ],
+  "otherNews": [
+    {
+      "title": "1月微信小游戏畅销榜Top 100：三款SLG会师Top 10，《水世界》第8《奔奔王国》第10",
+      "link": "https://mp.weixin.qq.com/s/fwwJabwcf1RKasCy1UW2Rg",
+      "valueLabel": "medium",
+      "valueReason": "头部榜单与品类分布反映小游戏发行与融合趋势，对选品与投放有参考。",
+      "content": "GameLook 统计 2026 年 1 月微信小游戏畅销榜 Top 100。Top 10 依次为《三国：冰河时代》《无尽冬日》《向僵尸开炮》《生存33天》《我的花园世界》《道友来挖宝》《灵画师》《疯狂水世界》《神器传说》《奔奔王国》；其中《疯狂水世界》较上月升约 40 位至第 8，《奔奔王国》进第 10，与《无尽冬日》形成三款 SLG 会师前十。RPG 约 40 款，模拟经营 14、塔防 11、SLG 6；发行商方面三七互娱 5 款居首。品类融合下《疯狂水世界》《这城有良田》等模拟经营中后期加入 SLG 元素。"
+    }
+  ],
+  "actionItems": [
+    {
+      "priority": "P0",
+      "action": "评估桌面 Agent（Skywork/OpenClaw）在项目交接与知识库场景的试点",
+      "owner": "技术/PM",
+      "output": "试点方案与选型结论"
+    },
+    {
+      "priority": "P1",
+      "action": "拆解《鸣潮》3.1 叙事与演出结构用于内部标准",
+      "owner": "策划/叙事",
+      "output": "案例库与评审要点"
+    },
+    {
+      "priority": "P2",
+      "action": "跟进微信小游戏 1 月榜单与 SLG/模拟经营融合趋势",
+      "owner": "发行/市场",
+      "output": "月度榜单摘要"
+    }
+  ],
+  "evaluation": {
+    "dimensions": [
+      {
+        "name": "形态对齐",
+        "rating": "⭐⭐⭐⭐",
+        "note": "《鸣潮》3.1 演出与《遗忘之海》开放世界+生活化设计均有竖版/大世界参考价值"
+      },
+      {
+        "name": "机制对齐",
+        "rating": "⭐⭐⭐",
+        "note": "本期以单产品叙事与品类榜单为主，社交/常青机制案例较少"
+      },
+      {
+        "name": "技术对齐",
+        "rating": "⭐⭐⭐⭐",
+        "note": "Skywork 桌面 Agent 多模态与任务链落地清晰，可执行性强"
+      }
+    ],
+    "summary": "本期因部分 RSS 原文链接无法访问，仅收录 4 条情报。高价值集中在技术对齐（桌面 Agent）与形态/叙事（鸣潮、遗忘之海）；中价值为榜单与品类趋势。建议优先跟进桌面 Agent 与二次元开放世界叙事两线。"
+  },
+  "sources": [
+    "机核",
+    "十字路口Crossing",
+    "游戏矩阵 GameMatrix",
+    "GameLook"
+  ],
+  "generatedAt": "2026-02-06T02:06:24.563Z"
+}
