@@ -1,0 +1,145 @@
+{
+  "date": "2026-02-25",
+  "overview": {
+    "totalCount": 0,
+    "highValueCount": 0,
+    "mediumValueCount": 0,
+    "lowValueCount": 0,
+    "valueDistribution": "",
+    "filterLogic": "本期情报聚焦游戏行业动态与AI技术前沿，筛选具有研发参考价值的内容",
+    "valueJudgment": "本期共收录 30 条情报，其中游戏相关 3 条，AI技术 5 条"
+  },
+  "formFactor": [
+    {
+      "title": "春节档最火的30款游戏 4款流水预估超千万美元",
+      "link": "https://mp.weixin.qq.com/s/S-fYAUWL-tBCCWRWnvvPXg",
+      "valueLabel": "medium",
+      "valueReason": "",
+      "content": "详见原文链接",
+      "highlights": [
+        {
+          "label": "核心信息",
+          "text": "待补充详细分析"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "关注方向",
+          "text": "持续跟踪相关动态"
+        }
+      ]
+    },
+    {
+      "title": "小众玩法如何颠覆休闲游戏市场格局？",
+      "link": "https://mp.weixin.qq.com/s/p6rwDdzhHu8uzlva5CaJ4g",
+      "valueLabel": "medium",
+      "valueReason": "",
+      "content": "详见原文链接",
+      "highlights": [
+        {
+          "label": "核心信息",
+          "text": "待补充详细分析"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "关注方向",
+          "text": "持续跟踪相关动态"
+        }
+      ]
+    },
+    {
+      "title": "春节回家，我发现身边出现了一大批50岁+的游戏高手",
+      "link": "https://mp.weixin.qq.com/s/5sLhbl_p7B3oPygDgSp50A",
+      "valueLabel": "medium",
+      "valueReason": "",
+      "content": "详见原文链接",
+      "highlights": [
+        {
+          "label": "核心信息",
+          "text": "待补充详细分析"
+        }
+      ],
+      "suggestions": [
+        {
+          "label": "关注方向",
+          "text": "持续跟踪相关动态"
+        }
+      ]
+    }
+  ],
+  "socialEvergreen": [],
+  "techStack": [],
+  "aiNews": [
+    {
+      "title": "Anthropic 指控三家中国 AI 公司大规模蒸馏 Claude，马斯克嘲讽：你偷来的东西被偷了？",
+      "link": "https://mp.weixin.qq.com/s/k4f_zp-aOq5ysE0FfVAhuA",
+      "valueLabel": "medium",
+      "valueReason": "",
+      "summary": "详见原文"
+    },
+    {
+      "title": "也许是AI时代最值得重温的游戏",
+      "link": "https://mp.weixin.qq.com/s/Kd5EDaPN0pvpJtSSqZYeTQ",
+      "valueLabel": "medium",
+      "valueReason": "",
+      "summary": "详见原文"
+    },
+    {
+      "title": "我用 OpenClaw 做了个社交平台，让 AI 先替我面试",
+      "link": "https://mp.weixin.qq.com/s/k12LFpib97rjZT34xA9-FQ",
+      "valueLabel": "medium",
+      "valueReason": "",
+      "summary": "详见原文"
+    },
+    {
+      "title": "OpenAI Codex 产品负责人：代码不再由人类编写，但我们会有更多构建者（Builder）",
+      "link": "https://mp.weixin.qq.com/s/YHGSOjeg8xZGAWyyZw9zaw",
+      "valueLabel": "medium",
+      "valueReason": "",
+      "summary": "详见原文"
+    },
+    {
+      "title": "Demis Hassabis 提出了一个判断 AGI 的「爱因斯坦测试」：\n用截止到 1911 年的全部人类知识训练一个模型，然后看它能不能独立推导出广义相对论，就像爱因斯坦在 1915 年做到的那样。\n如果能，那就算 AGI。\n\n不过……如果换我在 1911 年，我大概率是推导不出广义相对论来的，那也就是说：我并不算是通用人工智能（AGI）了？\n\n对此，马斯克的观点是：\nDemis 说的其实已经是超级智能了，只不过套了 AGI 的壳。因为如果 AI 能推导出相对论，还能被复制成几百万个，那作为一个整体，它们将远远超越人类。",
+      "link": "https://mp.weixin.qq.com/s/G2eDNIaOPQxWWMl58o4x9g",
+      "valueLabel": "medium",
+      "valueReason": "",
+      "summary": "详见原文"
+    }
+  ],
+  "otherNews": [],
+  "actionItems": [
+    {
+      "priority": "P1",
+      "action": "查看本期游戏情报",
+      "owner": "策划组",
+      "output": "情报摘要"
+    },
+    {
+      "priority": "P2",
+      "action": "跟踪AI技术动态",
+      "owner": "技术组",
+      "output": "技术评估"
+    }
+  ],
+  "evaluation": {
+    "dimensions": [
+      {
+        "name": "游戏情报",
+        "rating": "⭐⭐⭐",
+        "note": "收录3条"
+      },
+      {
+        "name": "AI前沿",
+        "rating": "⭐⭐⭐⭐",
+        "note": "收录5条"
+      }
+    ],
+    "summary": "本期情报自动生成，建议人工复核补充深度分析"
+  },
+  "sources": [
+    "WeWe-RSS",
+    "Auto-Generated"
+  ],
+  "generatedAt": "2026-02-25T10:00:04.195Z"
+}
